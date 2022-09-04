@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "git",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1961169353104462,
-  "close": false
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.36209742028521,
+  "lineSizeMultiplier": 1.23647652619772,
+  "collapse-forces": false,
+  "centerStrength": 0.433626076676237,
+  "repelStrength": 6.07836514102348,
+  "linkStrength": 0.730873163317007,
+  "linkDistance": 211,
+  "scale": 0.9305676691129835,
+  "close": true
 }
