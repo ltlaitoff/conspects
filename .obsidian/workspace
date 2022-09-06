@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c10272800f1435fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7d9f96098283c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git/Снимки, а не различия.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832ac937b04b25d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41df795cbf97ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24dc56c09266e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f40408fcf46559a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec9fa5ad88feab02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5036334991455
+  },
+  "right": {
+    "id": "2f506f9fee39b619",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b14c0aa96eed29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc5deccf74b3c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/Снимки, а не различия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828c2782cd9de295",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/Снимки, а не различия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee4f8aa1c9d7400d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e968e057a92b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/Снимки, а не различия.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d7d9f96098283c5",
+  "lastOpenFiles": [
+    "git/Что такое git?.md",
+    "git/Краткая история git.md",
+    "git/Система контроля версий.md",
+    "git/Централизованная система контроля версий.md",
+    "git/Введение.md",
+    "git/Распределённые системы контроля версий.md",
+    "git.md",
+    "2022-09-02.md",
+    "hn/all.md",
+    "Untitled.md"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "attachmentFolderPath": "git"
+}
