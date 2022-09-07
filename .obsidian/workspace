@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/Как получить помощь.md",
+            "file": "git/Ответы на вопросы с собеседований git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Как получить помощь.md",
+                "file": "git/Ответы на вопросы с собеседований git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Как получить помощь.md",
+                "file": "git/Ответы на вопросы с собеседований git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Как получить помощь.md"
+                "file": "git/Ответы на вопросы с собеседований git.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "65080fb1ba0223cf",
   "lastOpenFiles": [
+    "git/Три состояния.md",
+    "git/Целостность Git.md",
+    "git/Как получить помощь.md",
     "git/Первоначальная настройка Git.md",
     "git/Почти все операции выполняются локально.md",
     "git/Распределённые системы контроля версий.md",
     "git/Система контроля версий.md",
-    "git/Целостность Git.md",
     "git/Командная строка.md",
-    "git/Три состояния.md",
     "git/Централизованная система контроля версий.md",
-    "git/Git обычно только добавляет данные.md",
-    "git/Краткая история git.md"
+    "git/Git обычно только добавляет данные.md"
   ]
 }
