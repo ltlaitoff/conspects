@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7d9f96098283c5",
+        "id": "9ec775d2735e7a82",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "git/Снимки, а не различия.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Снимки, а не различия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Снимки, а не различия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/Снимки, а не различия.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d7d9f96098283c5",
+  "active": "9ec775d2735e7a82",
   "lastOpenFiles": [
-    "git/Что такое git?.md",
-    "git/Краткая история git.md",
-    "git/Система контроля версий.md",
-    "git/Централизованная система контроля версий.md",
-    "git/Введение.md",
-    "git/Распределённые системы контроля версий.md",
-    "git.md",
-    "2022-09-02.md",
-    "hn/all.md",
-    "Untitled.md"
+    "git/Введение/Git обычно только добавляет данные.md",
+    "git/Введение/Первоначальная настройка Git.md",
+    "git/Ответы на вопросы с собеседований git.md",
+    "git/Введение/Три состояния.md",
+    "git/Введение/Целостность Git.md",
+    "git/Введение/Как получить помощь.md",
+    "git/Введение/Почти все операции выполняются локально.md",
+    "git/Введение/Распределённые системы контроля версий.md",
+    "git/Введение/Система контроля версий.md",
+    "git/Введение/Командная строка.md"
   ]
 }
