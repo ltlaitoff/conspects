@@ -1,4 +1,5 @@
 {
   "baseFontSize": 17,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": ""
 }
