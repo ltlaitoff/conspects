@@ -1,6 +1,8 @@
 
 ## Estimated time
 
+`*Docs` - Write docs for project and read documentation
+
 ### Good
 
 - Docs: 2h
@@ -14,6 +16,13 @@
 - Backend 15h
 - Frontend 31h
 - Summ 50h
+
+### Current
+
+- Docs: 3h 42 m (48m write docs for project)
+- Backend 
+- Frontend 
+- Summ 
 
 ## Home page
 
