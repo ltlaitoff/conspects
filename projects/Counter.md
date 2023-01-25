@@ -96,8 +96,13 @@
 ```json
 {
 	_id: ObjectID,
-	username: string,
+	name: string,
+	picture: string | undefined,
+	hd: string,
 	email: string,
+	email_verified: boolean,
+	given_name: string, 
+	family_name: string,
 	key: string,
 }
 ```
