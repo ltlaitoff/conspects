@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59f0454d6baa7ed6",
+        "id": "ebfef0f61ee1e0b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1b593e7818fb0e",
+            "id": "4303f7f5cd919476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Counter.md",
+                "file": "technology-study/angular/Conceptual reference/Introduction to modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dependency-Injection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Counter.md",
+                "file": "technology-study/angular/Conceptual reference/Introduction to modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Counter.md",
+                "file": "technology-study/angular/Conceptual reference/Introduction to modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Counter.md"
+                "file": "technology-study/angular/Conceptual reference/Introduction to modules.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1b593e7818fb0e",
+  "active": "4303f7f5cd919476",
   "lastOpenFiles": [
-    "technology-study/vue/Introduction.md",
-    "README.md",
+    "technology-study/angular/images/Introduction to modules B.png",
+    "technology-study/angular/images/Introduction to modules A.png",
+    "technology-study/angular/Conceptual reference/Introduction to modules.md",
+    "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
     "projects/Counter.md",
-    "git/Введение/Git обычно только добавляет данные.md",
     "git/Введение/Первоначальная настройка Git.md",
-    "git/Ответы на вопросы с собеседований git.md",
-    "git/Введение/Три состояния.md",
-    "git/Введение/Целостность Git.md",
+    "git/Введение/Git обычно только добавляет данные.md",
+    "git/Введение/Командная строка.md",
     "git/Введение/Как получить помощь.md",
-    "git/Введение/Почти все операции выполняются локально.md"
+    "git/Ответы на вопросы с собеседований git.md"
   ]
 }
