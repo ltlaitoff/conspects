@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "c10272800f1435fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0595330018f3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39e0e5f253c8a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/Дизайн система vs UI-кит.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3934fd7aeeff05a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/Основные елементы UI-кита.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832ac937b04b25d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41df795cbf97ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24dc56c09266e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f40408fcf46559a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec9fa5ad88feab02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5036334991455
+  },
+  "right": {
+    "id": "2f506f9fee39b619",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b14c0aa96eed29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc5deccf74b3c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "design/Основные елементы UI-кита.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828c2782cd9de295",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "design/Основные елементы UI-кита.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee4f8aa1c9d7400d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e968e057a92b05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "design/Основные елементы UI-кита.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3934fd7aeeff05a1",
+  "lastOpenFiles": [
+    "design/Дизайн система vs UI-кит.md",
+    "git/Ответы на вопросы с собеседований git.md",
+    "git/Введение/Git обычно только добавляет данные.md",
+    "git/Введение/Первоначальная настройка Git.md",
+    "git/Введение/Три состояния.md",
+    "git/Введение/Целостность Git.md",
+    "git/Введение/Как получить помощь.md",
+    "git/Введение/Почти все операции выполняются локально.md",
+    "git/Введение/Распределённые системы контроля версий.md",
+    "git/Введение/Система контроля версий.md"
+  ]
+}
