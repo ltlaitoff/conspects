@@ -1,5 +1,7 @@
 [
   "obsidian-colorful-tag",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "terminal"
 ]

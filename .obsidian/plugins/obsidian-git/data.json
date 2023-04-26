@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "Auto backup({{hostname}}): {{date}}"
 }
