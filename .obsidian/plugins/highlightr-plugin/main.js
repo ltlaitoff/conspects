@@ -2435,8 +2435,13 @@ Sortable.prototype =
         rootEl.removeChild(items[id]);
         rootEl.appendChild(items[id]);
       }
+    });
     useAnimation && this.animateAll();
   },
+
+  /**
+   * Save the current sorting
+   */
   save: function save() {
     var store = this.options.store;
     store && store.set && store.set(this);
