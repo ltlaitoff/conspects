@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#course",
+      "color": {
+        "a": 1,
+        "rgb": 15337186
+      }
     }
   ],
   "collapse-display": false,
