@@ -13,8 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
-                "file": "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
+                "file": "templates/Course template.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
+                "file": "templates/Course template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
+                "file": "templates/Course template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md"
+                "file": "templates/Course template.md"
               }
             }
           }
@@ -149,6 +148,7 @@
   },
   "active": "e45c88e7b3b44667",
   "lastOpenFiles": [
+    "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
     "templates/Default template.md",
     "templates/Course template.md",
     "templates",
@@ -165,7 +165,6 @@
     "projects/Counter-notions.md",
     "projects/Counter.md",
     "technology-study/angular/Conceptual reference/Introduction to components and templates.md",
-    "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
     "technology-study/angular/images/Introduction to modules B.png",
     "git/Введение/Первоначальная настройка Git.md",
     "git/Введение/Git обычно только добавляет данные.md",

@@ -1,8 +1,7 @@
 [
-  "obsidian-colorful-tag",
   "highlightr-plugin",
+  "obsidian-colorful-tag",
   "obsidian-git",
-  "templater-obsidian",
-  "terminal",
-  "settings-search"
+  "settings-search",
+  "templater-obsidian"
 ]
