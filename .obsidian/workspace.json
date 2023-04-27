@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "003c0e2980a5e184",
+        "id": "18991561ded0e0e0",
         "type": "tabs",
         "children": [
           {
-            "id": "4d7f1c6a7ffc0455",
+            "id": "e45c88e7b3b44667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
                 "file": "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
                 "mode": "source",
                 "source": false
@@ -48,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#Dependency-Injection",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 263.5036334991455
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -80,20 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "346b8cbf75d853fe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "2dc5deccf74b3c16",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
+                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
+                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Вступ до Сфокусованого та Розсіяного режимів.md"
+                "file": "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md"
               }
             }
           }
@@ -141,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,43 +144,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4d7f1c6a7ffc0455",
+  "active": "e45c88e7b3b44667",
   "lastOpenFiles": [
-    "assets/Pasted image 20230427133944.png",
-    "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
-    "assets/Pasted image 20230427134518.png",
-    "assets",
-    "git/Введение/Централизованная система контроля версий.md",
-    "git/Введение/Почти все операции выполняются локально.md",
-    "templates/Course template.md",
-    "courses/Test.md",
-    "ff.md",
-    "ghg.md",
-    "templates/test.md",
-    "Untitled 2.md",
     "templates/Default template.md",
-    "Untitled 1.md",
-    "afgg.md",
-    "asfdgs.md",
-    "README.md",
-    "asd.md",
-    "Untitled.canvas",
-    "git/Введение/Целостность Git.md",
-    "courses",
+    "templates/Course template.md",
+    "templates",
     "design/Основные елементы UI-кита.md",
-    "test.md",
-    "testr.md",
+    "design/Дизайн система vs UI-кит.md",
+    "design",
+    "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
+    "courses",
+    "assets/Pasted image 20230427134518.png",
+    "assets/Pasted image 20230427133944.png",
+    "assets",
+    "technology-study/angular/Conceptual reference/Introduction to modules.md",
+    "technology-study/angular/images/Introduction to modules A.png",
+    "projects/Counter-notions.md",
+    "projects/Counter.md",
+    "technology-study/angular/Conceptual reference/Introduction to components and templates.md",
+    "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
+    "technology-study/angular/images/Introduction to modules B.png",
+    "git/Введение/Первоначальная настройка Git.md",
     "git/Введение/Git обычно только добавляет данные.md",
-    "git/Untitled.md",
-    "f.md",
+    "git/Введение/Командная строка.md",
     "git/Введение/Как получить помощь.md",
-    "TEST.md",
-    "Test.md",
-    "templates"
+    "git/Ответы на вопросы с собеседований git.md"
   ]
 }
