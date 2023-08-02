@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18991561ded0e0e0",
+        "id": "b94527744e083b30",
         "type": "tabs",
         "children": [
           {
-            "id": "e45c88e7b3b44667",
+            "id": "4a588ed081a5bc09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "templates/Course template.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20230521130449.png"
               }
             }
           }
@@ -48,8 +46,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dependency-Injection",
-                "matchingCase": false,
+                "query": "QA-DL-AcademyA",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -62,6 +60,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "44f18f7607429721",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Course template.md",
+                "file": "assets/Pasted image 20230521130449.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Course template.md",
+                "file": "assets/Pasted image 20230521130449.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Course template.md"
+                "file": "assets/Pasted image 20230521130449.png"
               }
             }
           }
@@ -143,33 +149,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e45c88e7b3b44667",
+  "active": "4a588ed081a5bc09",
   "lastOpenFiles": [
-    "technology-study/angular/Conceptual reference/Introduction to Angular concepts.md",
-    "templates/Default template.md",
-    "templates/Course template.md",
-    "templates",
-    "design/Основные елементы UI-кита.md",
-    "design/Дизайн система vs UI-кит.md",
-    "design",
-    "courses/Вступ до Сфокусованого та Розсіяного режимів.md",
-    "courses",
-    "assets/Pasted image 20230427134518.png",
+    "assets/Pasted image 20230521123641.png",
     "assets/Pasted image 20230427133944.png",
-    "assets",
-    "technology-study/angular/Conceptual reference/Introduction to modules.md",
-    "technology-study/angular/images/Introduction to modules A.png",
-    "projects/Counter-notions.md",
-    "projects/Counter.md",
-    "technology-study/angular/Conceptual reference/Introduction to components and templates.md",
-    "technology-study/angular/images/Introduction to modules B.png",
-    "git/Введение/Первоначальная настройка Git.md",
-    "git/Введение/Git обычно только добавляет данные.md",
-    "git/Введение/Командная строка.md",
-    "git/Введение/Как получить помощь.md",
-    "git/Ответы на вопросы с собеседований git.md"
+    "algoritms/Breadth First Search.md",
+    "algoritms/Depth First Search.md",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722175223.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174832.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174418.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722171004.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170727.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170619.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174737.png",
+    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174123.png",
+    "courses/QA Distributed Lab Academy/tests/Test 3.md",
+    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
+    "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
+    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
+    "courses/QA Distributed Lab Academy/Тест-кейс.md",
+    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
+    "courses/QA Distributed Lab Academy/Тестове покриття.md",
+    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
+    "courses/QA Distributed Lab Academy/tests/Test1.md",
+    "courses/QA Distributed Lab Academy/Принципи тестування.md",
+    "templates/qa-3-template.md",
+    "courses/QA Distributed Lab Academy/STLC.md",
+    "courses/QA Distributed Lab Academy/4.md",
+    "courses/QA Distributed Lab Academy/123.md",
+    "templates/Course template.md",
+    "courses/QA Distributed Lab Academy/Agile.md",
+    "courses/QA Distributed Lab Academy/tests/Test2.md",
+    "courses/QA Distributed Lab Academy/Scrum.md",
+    "courses/QA Distributed Lab Academy/SDLC.md",
+    "courses/QA Distributed Lab Academy/Kanban.md",
+    "courses/QA Distributed Lab Academy/Waterfall.md",
+    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
+    "courses/QA Distributed Lab Academy/tests",
+    "courses/QA Distributed Lab Academy/assets",
+    "courses/QA Distributed Lab Academy",
+    "Untitled",
+    "tmp",
+    "english/anki",
+    "english",
+    "algoritms",
+    "projects/wakatime-to-toggle",
+    "templates"
   ]
 }

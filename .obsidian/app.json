@@ -1,13 +1,9 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru",
-    "uk"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "git",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

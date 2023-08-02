@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 15337186
       }
+    },
+    {
+      "query": "tag:#QA-DL-Academy",
+      "color": {
+        "a": 1,
+        "rgb": 365506
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 6.07836514102348,
   "linkStrength": 0.730873163317007,
   "linkDistance": 211,
-  "scale": 0.930567669112983,
+  "scale": 1.0136432647705078,
   "close": true
 }
