@@ -4,5 +4,7 @@
   "obsidian-git",
   "settings-search",
   "templater-obsidian",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "obsidian-languagetool-plugin",
+  "table-editor-obsidian"
 ]

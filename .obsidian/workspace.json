@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b94527744e083b30",
+        "id": "6030d6ce3dcab4c0",
         "type": "tabs",
         "children": [
           {
-            "id": "4a588ed081a5bc09",
+            "id": "9106c96d8d8184b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20230521130449.png"
+                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e6e61106581ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20230521130449.png",
+                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20230521130449.png",
+                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,16 +145,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20230521130449.png"
+                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md"
               }
             }
+          },
+          {
+            "id": "3d545f4ee89dcaa5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,11 +173,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a588ed081a5bc09",
+  "active": "9106c96d8d8184b6",
   "lastOpenFiles": [
+    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+    "courses/QA Distributed Lab Academy/practices/Практичне завдання 001. “Тест-дизайн\".md",
+    "tmp/1.ts",
+    "tmp/1",
+    "courses/QA Distributed Lab Academy/practices",
+    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
+    "assets/Pasted image 20230521130449.png",
     "assets/Pasted image 20230521123641.png",
     "assets/Pasted image 20230427133944.png",
     "algoritms/Breadth First Search.md",
@@ -167,17 +197,13 @@
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170727.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170619.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174737.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174123.png",
     "courses/QA Distributed Lab Academy/tests/Test 3.md",
-    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
     "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
     "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
     "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
     "courses/QA Distributed Lab Academy/Тест-кейс.md",
     "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
     "courses/QA Distributed Lab Academy/Тестове покриття.md",
-    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
     "courses/QA Distributed Lab Academy/tests/Test1.md",
     "courses/QA Distributed Lab Academy/Принципи тестування.md",
     "templates/qa-3-template.md",
@@ -191,16 +217,12 @@
     "courses/QA Distributed Lab Academy/SDLC.md",
     "courses/QA Distributed Lab Academy/Kanban.md",
     "courses/QA Distributed Lab Academy/Waterfall.md",
-    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
     "courses/QA Distributed Lab Academy/tests",
     "courses/QA Distributed Lab Academy/assets",
     "courses/QA Distributed Lab Academy",
     "Untitled",
     "tmp",
     "english/anki",
-    "english",
-    "algoritms",
-    "projects/wakatime-to-toggle",
-    "templates"
+    "english"
   ]
 }
