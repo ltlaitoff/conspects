@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6030d6ce3dcab4c0",
+        "id": "b0b7d84fa944442d",
         "type": "tabs",
         "children": [
           {
-            "id": "9106c96d8d8184b6",
+            "id": "247fdd53e9e1f614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
+                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0e6e61106581ede",
+            "id": "db085b2b10c7e62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+                "file": "courses/QA Distributed Lab Academy/Класифікація видів тестування.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5036334991455
+    "width": 320.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
+                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md",
+                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Тест-кейс.md"
+                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md"
               }
             }
           },
@@ -177,19 +177,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9106c96d8d8184b6",
+  "active": "3d545f4ee89dcaa5",
   "lastOpenFiles": [
+    "courses/QA Distributed Lab Academy/Класифікація видів тестування.md",
+    "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
+    "courses/QA Distributed Lab Academy/tests/Test 5.md",
+    "courses/QA Distributed Lab Academy/practices/00.md",
+    "images/image1.png.md",
+    "images",
+    "courses/QA Distributed Lab Academy/Що таке баг?.md",
+    "templates/qa-4-template.md",
+    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
+    "courses/QA Distributed Lab Academy/Пріоритет багу.md",
+    "courses/QA Distributed Lab Academy/Баг-репорт та його атрибути.md",
+    "courses/QA Distributed Lab Academy/Серйозність багу.md",
+    "courses/QA Distributed Lab Academy/Принципи тестування.md",
+    "courses/QA Distributed Lab Academy/Тестове покриття.md",
+    "courses/QA Distributed Lab Academy/Життєвий цикл багу.md",
+    "courses/QA Distributed Lab Academy/Принципи та приклади написання Баг-репортів.md",
+    "courses/QA Distributed Lab Academy/Як не плутати серйозність та пріоритет?.md",
+    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
+    "courses/QA Distributed Lab Academy/Цілі та завдання тестування.md",
+    "courses/QA Distributed Lab Academy/tests/Test 4.md",
+    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
     "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
+    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
+    "courses/QA Distributed Lab Academy/tests/Test1.md",
+    "courses/QA Distributed Lab Academy/Тест-кейс.md",
     "courses/QA Distributed Lab Academy/practices/Практичне завдання 001. “Тест-дизайн\".md",
     "tmp/1.ts",
     "tmp/1",
     "courses/QA Distributed Lab Academy/practices",
-    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
     "assets/Pasted image 20230521130449.png",
     "assets/Pasted image 20230521123641.png",
     "assets/Pasted image 20230427133944.png",
-    "algoritms/Breadth First Search.md",
-    "algoritms/Depth First Search.md",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722175223.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174832.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174418.png",
@@ -197,32 +219,11 @@
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170727.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170619.png",
-    "courses/QA Distributed Lab Academy/tests/Test 3.md",
-    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
-    "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
-    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
-    "courses/QA Distributed Lab Academy/Тест-кейс.md",
-    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
-    "courses/QA Distributed Lab Academy/Тестове покриття.md",
-    "courses/QA Distributed Lab Academy/tests/Test1.md",
-    "courses/QA Distributed Lab Academy/Принципи тестування.md",
-    "templates/qa-3-template.md",
-    "courses/QA Distributed Lab Academy/STLC.md",
-    "courses/QA Distributed Lab Academy/4.md",
-    "courses/QA Distributed Lab Academy/123.md",
-    "templates/Course template.md",
-    "courses/QA Distributed Lab Academy/Agile.md",
-    "courses/QA Distributed Lab Academy/tests/Test2.md",
-    "courses/QA Distributed Lab Academy/Scrum.md",
-    "courses/QA Distributed Lab Academy/SDLC.md",
-    "courses/QA Distributed Lab Academy/Kanban.md",
-    "courses/QA Distributed Lab Academy/Waterfall.md",
     "courses/QA Distributed Lab Academy/tests",
     "courses/QA Distributed Lab Academy/assets",
     "courses/QA Distributed Lab Academy",
     "Untitled",
     "tmp",
-    "english/anki",
-    "english"
+    "english/anki"
   ]
 }
