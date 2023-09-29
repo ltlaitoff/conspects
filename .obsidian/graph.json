@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "git",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#course",
-      "color": {
-        "a": 1,
-        "rgb": 15337186
-      }
-    },
-    {
-      "query": "tag:#QA-DL-Academy",
-      "color": {
-        "a": 1,
-        "rgb": 365506
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.36209742028521,
-  "lineSizeMultiplier": 1.23647652619772,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.433626076676237,
-  "repelStrength": 6.07836514102348,
-  "linkStrength": 0.730873163317007,
-  "linkDistance": 211,
-  "scale": 1.0136432647705078,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 8,
   "close": true
 }

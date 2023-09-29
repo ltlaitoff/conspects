@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b7d84fa944442d",
+        "id": "0cca38838a6a7cff",
         "type": "tabs",
         "children": [
           {
-            "id": "247fdd53e9e1f614",
+            "id": "e5afaf41a2bfce6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db085b2b10c7e62b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/QA Distributed Lab Academy/Класифікація видів тестування.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,12 +44,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QA-DL-AcademyA",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -89,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 370.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/QA Distributed Lab Academy/practices/ПЗ 003.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,13 +136,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "80f923ded037f9d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,35 +167,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d545f4ee89dcaa5",
+  "active": "e5afaf41a2bfce6a",
   "lastOpenFiles": [
-    "courses/QA Distributed Lab Academy/Класифікація видів тестування.md",
-    "courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
-    "courses/QA Distributed Lab Academy/tests/Test 5.md",
-    "courses/QA Distributed Lab Academy/practices/00.md",
-    "images/image1.png.md",
-    "images",
-    "courses/QA Distributed Lab Academy/Що таке баг?.md",
+    "courses/QA Distributed Lab Academy/Що таке тестування продуктивності?.md",
+    "courses/QA Distributed Lab Academy/Порівняння навантажувального тестування, стрес-тестування та тестування стійкості.md",
+    "courses/QA Distributed Lab Academy/Переваги навантажувального тестування з точки зору результатів для команди та замовників.md",
+    "courses/QA Distributed Lab Academy/Більше детально про навантажувальне тестування.md",
+    "courses/QA Distributed Lab Academy/Цікаві факти та історії з життя, повʼязані з навантажувальним тестуванням.md",
+    "courses/QA Distributed Lab Academy/Процес навантажувального тестування за допомогою Apache JMeter.md",
+    "courses/QA Distributed Lab Academy/Інструменти для навантажувального тестування.md",
+    "courses/QA Distributed Lab Academy/Технічні навички, які можуть знадобитися для виконання навантажувального тестування.md",
     "templates/qa-4-template.md",
-    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
-    "courses/QA Distributed Lab Academy/Пріоритет багу.md",
-    "courses/QA Distributed Lab Academy/Баг-репорт та його атрибути.md",
-    "courses/QA Distributed Lab Academy/Серйозність багу.md",
-    "courses/QA Distributed Lab Academy/Принципи тестування.md",
-    "courses/QA Distributed Lab Academy/Тестове покриття.md",
-    "courses/QA Distributed Lab Academy/Життєвий цикл багу.md",
-    "courses/QA Distributed Lab Academy/Принципи та приклади написання Баг-репортів.md",
-    "courses/QA Distributed Lab Academy/Як не плутати серйозність та пріоритет?.md",
-    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
-    "courses/QA Distributed Lab Academy/Цілі та завдання тестування.md",
-    "courses/QA Distributed Lab Academy/tests/Test 4.md",
-    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
-    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
-    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
-    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
-    "courses/QA Distributed Lab Academy/tests/Test1.md",
-    "courses/QA Distributed Lab Academy/Тест-кейс.md",
-    "courses/QA Distributed Lab Academy/practices/Практичне завдання 001. “Тест-дизайн\".md",
+    "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
+    "courses/QA Distributed Lab Academy/Методи HTTP запитів.md",
+    "courses/QA Distributed Lab Academy/Що таке коди стану HTTP і навіщо вони потрібні.md",
+    "courses/QA Distributed Lab Academy/Формати передачі даних у API.md",
+    "courses/QA Distributed Lab Academy/Основні переваги тестування API.md",
+    "courses/QA Distributed Lab Academy/Що потрібно для початку тестування API.md",
+    "courses/QA Distributed Lab Academy/Типи тестування API.md",
+    "courses/QA Distributed Lab Academy/Що таке тестування API?.md",
+    "courses/QA Distributed Lab Academy/Що таке API?.md",
+    "courses/QA Distributed Lab Academy/Типи помилок і багів, виявлених під час тестування API.md",
+    "courses/QA Distributed Lab Academy/Процес тестування API.md",
+    "courses/QA Distributed Lab Academy/Які інструменти використовувати для тестування API.md",
+    "courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
+    "courses/QA Distributed Lab Academy/Що таке вебдодаток?.md",
+    "courses/QA Distributed Lab Academy/Jam.md",
+    "courses/QA Distributed Lab Academy/Критерії якісних вимог.md",
+    "courses/QA Distributed Lab Academy/Тестова документація.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "git/Pasted image 20230829180339.png",
+    "images",
     "tmp/1.ts",
     "tmp/1",
     "courses/QA Distributed Lab Academy/practices",
@@ -218,7 +211,6 @@
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722171004.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170727.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170619.png",
     "courses/QA Distributed Lab Academy/tests",
     "courses/QA Distributed Lab Academy/assets",
     "courses/QA Distributed Lab Academy",

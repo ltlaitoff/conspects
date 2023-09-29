@@ -13,7 +13,7 @@ Aliases:
 Tags: 
  - testing
  - QA-DL-Academy
- - QA-Lecture-4_Баги
+ - QA-Lecture-11_Тестування-продуктивності
 ---
 
 # <%* tR += title %>
