@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0cca38838a6a7cff",
+        "id": "3d5c34192839be33",
         "type": "tabs",
         "children": [
           {
-            "id": "e5afaf41a2bfce6a",
+            "id": "6981dfa147cd7bb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#definition",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 239.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md"
+              }
             }
           },
           {
@@ -146,13 +155,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "329727113b19eb13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5afaf41a2bfce6a",
+  "active": "f40408fcf46559a5",
   "lastOpenFiles": [
+    "courses/Game Theory/Суть теорії ігр та її концепції.md",
+    "git/Pasted image 20230929214134.png",
+    "templates/game-theory.md",
+    "templates/qa-4-template.md",
+    "courses/Game Theory",
     "courses/QA Distributed Lab Academy/Що таке тестування продуктивності?.md",
     "courses/QA Distributed Lab Academy/Порівняння навантажувального тестування, стрес-тестування та тестування стійкості.md",
     "courses/QA Distributed Lab Academy/Переваги навантажувального тестування з точки зору результатів для команди та замовників.md",
@@ -177,7 +199,6 @@
     "courses/QA Distributed Lab Academy/Процес навантажувального тестування за допомогою Apache JMeter.md",
     "courses/QA Distributed Lab Academy/Інструменти для навантажувального тестування.md",
     "courses/QA Distributed Lab Academy/Технічні навички, які можуть знадобитися для виконання навантажувального тестування.md",
-    "templates/qa-4-template.md",
     "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
     "courses/QA Distributed Lab Academy/Методи HTTP запитів.md",
     "courses/QA Distributed Lab Academy/Що таке коди стану HTTP і навіщо вони потрібні.md",
@@ -192,9 +213,6 @@
     "courses/QA Distributed Lab Academy/Які інструменти використовувати для тестування API.md",
     "courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
     "courses/QA Distributed Lab Academy/Що таке вебдодаток?.md",
-    "courses/QA Distributed Lab Academy/Jam.md",
-    "courses/QA Distributed Lab Academy/Критерії якісних вимог.md",
-    "courses/QA Distributed Lab Academy/Тестова документація.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "git/Pasted image 20230829180339.png",
@@ -210,12 +228,10 @@
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174418.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230722171004.png",
     "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722170727.png",
     "courses/QA Distributed Lab Academy/tests",
     "courses/QA Distributed Lab Academy/assets",
     "courses/QA Distributed Lab Academy",
     "Untitled",
-    "tmp",
-    "english/anki"
+    "tmp"
   ]
 }

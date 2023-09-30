@@ -46,5 +46,13 @@
       ],
       "key": "C"
     }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }

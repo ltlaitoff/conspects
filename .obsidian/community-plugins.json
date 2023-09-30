@@ -1,10 +1,11 @@
 [
   "highlightr-plugin",
-  "obsidian-colorful-tag",
   "obsidian-git",
   "settings-search",
   "templater-obsidian",
   "obsidian-to-anki-plugin",
   "obsidian-languagetool-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "colored-text",
+  "colored-tags"
 ]

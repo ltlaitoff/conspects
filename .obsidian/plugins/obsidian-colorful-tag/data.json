@@ -1,11 +1,30 @@
 {
-  "TagSettings": [],
+  "TagSettings": [
+    {
+      "attributes": {},
+      "opened": true,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      }
+    }
+  ],
   "GlobalTagSetting": {
-    "attributes": {},
-    "opened": false,
-    "enableList_": {}
+    "attributes": {
+      "nest-tag": null,
+      "text-color": "#934343",
+      "background-color": "#e8a6a6"
+    },
+    "opened": true,
+    "enableList_": {
+      "remove-hash": true,
+      "nest-tag": false
+    }
   },
-  "UseTagDetail": false,
+  "UseTagDetail": true,
   "StoreTagDetailInYaml": "plugin",
   "TagDetailData": {
     "english/anki/1000-words.md": []
@@ -514,6 +533,10 @@
       "#flashcard-4785-7-49465",
       "#flashcard-4790-7-49517"
     ],
-    "courses/QA Distributed Lab Academy/tests/Test1.md": []
+    "courses/QA Distributed Lab Academy/tests/Test1.md": [],
+    "courses/Game Theory/Суть теорії ігр та її концепції.md": [
+      "#definition-15-0-365",
+      "#definition-89-0-6426"
+    ]
   }
 }
