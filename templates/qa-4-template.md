@@ -13,7 +13,7 @@ Aliases:
 Tags: 
  - testing
  - QA-DL-Academy
- - QA-Lecture-11_Тестування-продуктивності
+ - QA-Lecture-14_Менеджмент-тестування
 ---
 
 # <%* tR += title %>

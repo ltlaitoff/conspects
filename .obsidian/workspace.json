@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5c34192839be33",
+        "id": "92cc2872405805a3",
         "type": "tabs",
         "children": [
           {
-            "id": "6981dfa147cd7bb2",
+            "id": "ca644b8b36c1b001",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/ШПОРА.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "25b3da4f4af3bd1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
+                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition",
+                "query": "tag:QA-DL-Academy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 411.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
+                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md",
+                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Game Theory/Суть теорії ігр та її концепції.md"
+                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md"
               }
             }
           },
@@ -164,12 +179,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,35 +199,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f40408fcf46559a5",
+  "active": "25b3da4f4af3bd1f",
   "lastOpenFiles": [
-    "courses/Game Theory/Суть теорії ігр та її концепції.md",
-    "git/Pasted image 20230929214134.png",
-    "templates/game-theory.md",
-    "templates/qa-4-template.md",
-    "courses/Game Theory",
-    "courses/QA Distributed Lab Academy/Що таке тестування продуктивності?.md",
-    "courses/QA Distributed Lab Academy/Порівняння навантажувального тестування, стрес-тестування та тестування стійкості.md",
-    "courses/QA Distributed Lab Academy/Переваги навантажувального тестування з точки зору результатів для команди та замовників.md",
-    "courses/QA Distributed Lab Academy/Більше детально про навантажувальне тестування.md",
-    "courses/QA Distributed Lab Academy/Цікаві факти та історії з життя, повʼязані з навантажувальним тестуванням.md",
-    "courses/QA Distributed Lab Academy/Процес навантажувального тестування за допомогою Apache JMeter.md",
-    "courses/QA Distributed Lab Academy/Інструменти для навантажувального тестування.md",
-    "courses/QA Distributed Lab Academy/Технічні навички, які можуть знадобитися для виконання навантажувального тестування.md",
+    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
+    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+    "courses/ШПОРА.md",
+    "courses/QA Distributed Lab Academy/Тестове покриття.md",
+    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
+    "courses/QA Distributed Lab Academy/Kanban.md",
+    "courses/QA Distributed Lab Academy/Scrum.md",
+    "courses/QA Distributed Lab Academy/Agile.md",
+    "courses/QA Distributed Lab Academy/Waterfall.md",
+    "courses/QA Distributed Lab Academy/SDLC.md",
+    "courses/QA Distributed Lab Academy/STLC.md",
+    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
+    "courses/QA Distributed Lab Academy/Принципи тестування.md",
+    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
+    "courses/QA Distributed Lab Academy/Цілі та завдання тестування.md",
     "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
-    "courses/QA Distributed Lab Academy/Методи HTTP запитів.md",
-    "courses/QA Distributed Lab Academy/Що таке коди стану HTTP і навіщо вони потрібні.md",
-    "courses/QA Distributed Lab Academy/Формати передачі даних у API.md",
-    "courses/QA Distributed Lab Academy/Основні переваги тестування API.md",
-    "courses/QA Distributed Lab Academy/Що потрібно для початку тестування API.md",
-    "courses/QA Distributed Lab Academy/Типи тестування API.md",
-    "courses/QA Distributed Lab Academy/Що таке тестування API?.md",
-    "courses/QA Distributed Lab Academy/Що таке API?.md",
-    "courses/QA Distributed Lab Academy/Типи помилок і багів, виявлених під час тестування API.md",
-    "courses/QA Distributed Lab Academy/Процес тестування API.md",
-    "courses/QA Distributed Lab Academy/Які інструменти використовувати для тестування API.md",
-    "courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
-    "courses/QA Distributed Lab Academy/Що таке вебдодаток?.md",
+    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
+    "courses/QA Distributed Lab Academy/Як не плутати серйозність та пріоритет?.md",
+    "courses/QA Distributed Lab Academy/Jam.md",
+    "courses/QA Distributed Lab Academy/Тестування в залежності від платформи.md",
+    "tmp/ChakraCheckbox.md",
+    "tmp/2.md",
+    "tmp/leetcode-task-1.md",
+    "courses/QA Distributed Lab Academy/tests/final.md",
+    "courses/QA Distributed Lab Academy/Найпоширеніші види тестування мобільних додатків.md",
+    "courses/QA Distributed Lab Academy/Види мобільних додатків.md",
+    "git/Pasted image 20230929214134.png",
+    "courses/Game Theory",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "git/Pasted image 20230829180339.png",

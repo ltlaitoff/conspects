@@ -4,7 +4,6 @@ Tags:
  - QA-DL-Academy
  - QA-Lecture-2_Цикл-розробки-програмного-забезпечення
 ---
-
 # SDLC
 
 SDLC - Sorftware development lifecycle
