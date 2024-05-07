@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "caa7aa493848485b",
+        "id": "aa6c3a306ba0ee6d",
         "type": "tabs",
         "children": [
           {
-            "id": "212e741b6b58be73",
+            "id": "7462103bd2effc53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/Основные елементы UI-кита.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Що?",
+                "query": "tag:course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/Основные елементы UI-кита.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/Основные елементы UI-кита.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "design/Основные елементы UI-кита.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,55 +171,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "212e741b6b58be73",
+  "active": "7462103bd2effc53",
   "lastOpenFiles": [
-    "design/Основные елементы UI-кита.md",
-    "design/Дизайн система vs UI-кит.md",
-    "courses/QA Distributed Lab Academy/ШПОРА.md",
-    "books/Untitled.md",
-    "git/Ответы на вопросы с собеседований git.md",
-    "courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
-    "courses/Linux LearnQuest/Command Line Network Configuration.md",
-    "courses/Linux LearnQuest/images",
-    "courses/Linux LearnQuest/Basic Network Troubleshooting.md",
-    "courses/Linux LearnQuest/images/Pasted image 20231205090632.png",
-    "courses/Linux LearnQuest/images/Pasted image 20231205090419.png",
-    "courses/Linux LearnQuest/images/Pasted image 20231204084755.png",
-    "courses/Linux LearnQuest/images/Pasted image 20231204084614.png",
-    "tmp/not-forget.md",
-    "README.md",
-    "images/image1.png.md",
-    "algoritms/images/Pasted image 20230521123641.png",
-    "algoritms/images/Pasted image 20230521130449.png",
-    "algoritms/images",
-    "courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
-    "courses/Learning how to learn/images/Pasted image 20230427133944.png",
-    "courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
-    "courses/Learning how to learn/images/Pasted image 20230427134518.png",
-    "courses/Learning how to learn/images",
+    "03 - Programming/js/ydnjs/up & going.md",
+    "03 - Programming/http/CORS.md",
+    "03 - Programming/git/Ответы на вопросы с собеседований git.md",
+    "03 - Programming/git/Введение/Централизованная система контроля версий.md",
+    "03 - Programming/git/Введение/Целостность Git.md",
+    "03 - Programming/git/Введение/Три состояния.md",
+    "03 - Programming/git/Введение/Система контроля версий.md",
+    "03 - Programming/git/Введение/Снимки, а не различия.md",
+    "03 - Programming/git/Введение/Распределённые системы контроля версий.md",
+    "03 - Programming/git/Введение/Первоначальная настройка Git.md",
+    "03 - Programming/git/Введение/Краткая история git.md",
+    "03 - Programming/git/Введение/Командная строка.md",
+    "03 - Programming/git/Введение/Как получить помощь.md",
+    "03 - Programming/git/Введение/Git обычно только добавляет данные.md",
+    "02 - Learning/books/Power.pdf",
+    "02 - Learning/books/Hyperfocus/Intro.md",
+    "02 - Learning/books/Hyperfocus/Intro-old.md",
+    "02 - Learning/courses/Linux LearnQuest/Basic Network Troubleshooting.md",
+    "02 - Learning/courses/Linux LearnQuest/Command Line Network Configuration.md",
+    "02 - Learning/courses/Linux LearnQuest/Network Configuration Files.md",
+    "02 - Learning/courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
+    "02 - Learning/courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
+    "02 - Learning/courses/Game Theory/Суть теорії ігр та її концепції.md",
+    "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
+    "02 - Learning/courses/QA Distributed Lab Academy/Agile.md",
+    "02 - Learning/courses/QA Distributed Lab Academy/practices/00.md",
+    "02 - Learning/courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
+    "01 - Fast notes",
+    "02 - Learning",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
+    "02 - Learning/courses/Linux LearnQuest/images",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090632.png",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090419.png",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084755.png",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084614.png",
+    "03 - Programming/algoritms/images/Pasted image 20230521123641.png",
+    "03 - Programming/algoritms/images/Pasted image 20230521130449.png",
+    "03 - Programming/algoritms/images",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20230427133944.png",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20230427134518.png",
+    "02 - Learning/courses/Learning how to learn/images",
     "assets/Untitled",
-    "Untitled",
-    "courses/Linux LearnQuest/images/Pasted image 20231204084824.png",
-    "git/Введение/Как получить помощь.md",
-    "git/Введение/Git обычно только добавляет данные.md",
-    "git/Введение/Командная строка.md",
-    "git/Введение/Краткая история git.md",
-    "git/Введение/Первоначальная настройка Git.md",
-    "git/Введение/Почти все операции выполняются локально.md",
-    "git/Введение/Распределённые системы контроля версий.md",
-    "git/Введение/Система контроля версий.md",
-    "git/Введение/Три состояния.md",
-    "git/Введение/Централизованная система контроля версий.md",
-    "git/Введение/Целостность Git.md",
-    "git/Введение/Снимки, а не различия.md",
+    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084824.png",
     "git/images",
-    "tmp/2.md",
-    "tmp/leetcode-task-1.md",
     "tmp/Untitled 1.canvas",
     "Untitled.canvas",
-    "courses/Learning how to learn",
-    "books/Power.pdf",
-    "projects/wwt",
-    "technology-study/js/ydnjs"
+    "02 - Learning/courses/Learning how to learn",
+    "04 - Projects/wwt"
   ]
 }
