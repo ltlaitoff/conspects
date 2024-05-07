@@ -1,4 +1,4 @@
-	let title = tp.file.title
+<%*
 	let title = tp.file.title
 	
 	if (title.startsWith('Untitled')) {
@@ -10,10 +10,9 @@
 title: <%* tR += title %>
 created: <% tp.file.creation_date() %>
 Aliases:
-Tags: 
- - testing
- - QA-DL-Academy
- - QA-Lecture-14_Менеджмент-тестування
+Tags:
+ - http
+ - CORS
 ---
 
 # <%* tR += title %>

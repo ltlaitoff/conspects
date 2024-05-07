@@ -2,5 +2,6 @@
   "baseFontSize": 19,
   "theme": "moonstone",
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": []
 }

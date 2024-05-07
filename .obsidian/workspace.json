@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92cc2872405805a3",
+        "id": "caa7aa493848485b",
         "type": "tabs",
         "children": [
           {
-            "id": "ca644b8b36c1b001",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/ШПОРА.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "25b3da4f4af3bd1f",
+            "id": "212e741b6b58be73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+                "file": "design/Основные елементы UI-кита.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,21 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:QA-DL-Academy",
-                "matchingCase": true,
+                "query": "Що?",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
               }
-            }
-          },
-          {
-            "id": "ec9fa5ad88feab02",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -88,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 343.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+                "file": "design/Основные елементы UI-кита.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
+                "file": "design/Основные елементы UI-кита.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md"
+                "file": "design/Основные елементы UI-кита.md"
               }
             }
           },
@@ -167,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -180,11 +158,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,55 +178,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25b3da4f4af3bd1f",
+  "active": "212e741b6b58be73",
   "lastOpenFiles": [
-    "courses/QA Distributed Lab Academy/Ролі під час створення тест-дизайну.md",
-    "courses/QA Distributed Lab Academy/Техніки тест-дизайну.md",
-    "courses/ШПОРА.md",
-    "courses/QA Distributed Lab Academy/Тестове покриття.md",
-    "courses/QA Distributed Lab Academy/Що таке Тест-Дизайн?.md",
-    "courses/QA Distributed Lab Academy/Kanban.md",
-    "courses/QA Distributed Lab Academy/Scrum.md",
-    "courses/QA Distributed Lab Academy/Agile.md",
-    "courses/QA Distributed Lab Academy/Waterfall.md",
-    "courses/QA Distributed Lab Academy/SDLC.md",
-    "courses/QA Distributed Lab Academy/STLC.md",
-    "courses/QA Distributed Lab Academy/Різниця між QA, QC та Testing.md",
-    "courses/QA Distributed Lab Academy/Принципи тестування.md",
-    "courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
-    "courses/QA Distributed Lab Academy/Цілі та завдання тестування.md",
-    "courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
-    "courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
-    "courses/QA Distributed Lab Academy/Як не плутати серйозність та пріоритет?.md",
-    "courses/QA Distributed Lab Academy/Jam.md",
-    "courses/QA Distributed Lab Academy/Тестування в залежності від платформи.md",
-    "tmp/ChakraCheckbox.md",
+    "design/Основные елементы UI-кита.md",
+    "design/Дизайн система vs UI-кит.md",
+    "courses/QA Distributed Lab Academy/ШПОРА.md",
+    "books/Untitled.md",
+    "git/Ответы на вопросы с собеседований git.md",
+    "courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
+    "courses/Linux LearnQuest/Command Line Network Configuration.md",
+    "courses/Linux LearnQuest/images",
+    "courses/Linux LearnQuest/Basic Network Troubleshooting.md",
+    "courses/Linux LearnQuest/images/Pasted image 20231205090632.png",
+    "courses/Linux LearnQuest/images/Pasted image 20231205090419.png",
+    "courses/Linux LearnQuest/images/Pasted image 20231204084755.png",
+    "courses/Linux LearnQuest/images/Pasted image 20231204084614.png",
+    "tmp/not-forget.md",
+    "README.md",
+    "images/image1.png.md",
+    "algoritms/images/Pasted image 20230521123641.png",
+    "algoritms/images/Pasted image 20230521130449.png",
+    "algoritms/images",
+    "courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
+    "courses/Learning how to learn/images/Pasted image 20230427133944.png",
+    "courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
+    "courses/Learning how to learn/images/Pasted image 20230427134518.png",
+    "courses/Learning how to learn/images",
+    "assets/Untitled",
+    "Untitled",
+    "courses/Linux LearnQuest/images/Pasted image 20231204084824.png",
+    "git/Введение/Как получить помощь.md",
+    "git/Введение/Git обычно только добавляет данные.md",
+    "git/Введение/Командная строка.md",
+    "git/Введение/Краткая история git.md",
+    "git/Введение/Первоначальная настройка Git.md",
+    "git/Введение/Почти все операции выполняются локально.md",
+    "git/Введение/Распределённые системы контроля версий.md",
+    "git/Введение/Система контроля версий.md",
+    "git/Введение/Три состояния.md",
+    "git/Введение/Централизованная система контроля версий.md",
+    "git/Введение/Целостность Git.md",
+    "git/Введение/Снимки, а не различия.md",
+    "git/images",
     "tmp/2.md",
     "tmp/leetcode-task-1.md",
-    "courses/QA Distributed Lab Academy/tests/final.md",
-    "courses/QA Distributed Lab Academy/Найпоширеніші види тестування мобільних додатків.md",
-    "courses/QA Distributed Lab Academy/Види мобільних додатків.md",
-    "git/Pasted image 20230929214134.png",
-    "courses/Game Theory",
-    "Untitled 1.canvas",
+    "tmp/Untitled 1.canvas",
     "Untitled.canvas",
-    "git/Pasted image 20230829180339.png",
-    "images",
-    "tmp/1.ts",
-    "tmp/1",
-    "courses/QA Distributed Lab Academy/practices",
-    "assets/Pasted image 20230521130449.png",
-    "assets/Pasted image 20230521123641.png",
-    "assets/Pasted image 20230427133944.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722175223.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174832.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722174418.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230722171004.png",
-    "courses/QA Distributed Lab Academy/assets/Pasted image 20230712164143.png",
-    "courses/QA Distributed Lab Academy/tests",
-    "courses/QA Distributed Lab Academy/assets",
-    "courses/QA Distributed Lab Academy",
-    "Untitled",
-    "tmp"
+    "courses/Learning how to learn",
+    "books/Power.pdf",
+    "projects/wwt",
+    "technology-study/js/ydnjs"
   ]
 }
