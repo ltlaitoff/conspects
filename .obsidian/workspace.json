@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6c3a306ba0ee6d",
+        "id": "55b6b348dbf9d301",
         "type": "tabs",
         "children": [
           {
-            "id": "7462103bd2effc53",
+            "id": "37a80e1d14d5d11a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "9bd3275253af9a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Projects/wwt/en/Формат тест кейсів_en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02384e69a15035bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Learning/courses/Learning how to learn/Як запам'ятовування пов'язанно зі сном.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:course",
+                "query": "tag:#course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,35 +194,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7462103bd2effc53",
+  "active": "37a80e1d14d5d11a",
   "lastOpenFiles": [
-    "03 - Programming/js/ydnjs/up & going.md",
-    "03 - Programming/http/CORS.md",
-    "03 - Programming/git/Ответы на вопросы с собеседований git.md",
-    "03 - Programming/git/Введение/Централизованная система контроля версий.md",
-    "03 - Programming/git/Введение/Целостность Git.md",
-    "03 - Programming/git/Введение/Три состояния.md",
-    "03 - Programming/git/Введение/Система контроля версий.md",
-    "03 - Programming/git/Введение/Снимки, а не различия.md",
-    "03 - Programming/git/Введение/Распределённые системы контроля версий.md",
-    "03 - Programming/git/Введение/Первоначальная настройка Git.md",
-    "03 - Programming/git/Введение/Краткая история git.md",
-    "03 - Programming/git/Введение/Командная строка.md",
-    "03 - Programming/git/Введение/Как получить помощь.md",
-    "03 - Programming/git/Введение/Git обычно только добавляет данные.md",
-    "02 - Learning/books/Power.pdf",
-    "02 - Learning/books/Hyperfocus/Intro.md",
-    "02 - Learning/books/Hyperfocus/Intro-old.md",
+    "04 - Projects/wwt/en/Brevo_en.md",
+    "02 - Learning/courses/Learning how to learn/Як запам'ятовування пов'язанно зі сном.md",
     "02 - Learning/courses/Linux LearnQuest/Basic Network Troubleshooting.md",
     "02 - Learning/courses/Linux LearnQuest/Command Line Network Configuration.md",
     "02 - Learning/courses/Linux LearnQuest/Network Configuration Files.md",
-    "02 - Learning/courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
     "02 - Learning/courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
-    "02 - Learning/courses/Game Theory/Суть теорії ігр та її концепції.md",
-    "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
-    "02 - Learning/courses/QA Distributed Lab Academy/Agile.md",
-    "02 - Learning/courses/QA Distributed Lab Academy/practices/00.md",
-    "02 - Learning/courses/QA Distributed Lab Academy/practices/ПЗ 003.md",
+    "02 - Learning/courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
+    "04 - Projects/wwt/Як працює fe+be.md",
+    "04 - Projects/wwt/Формат тест кейсів.md",
+    "04 - Projects/wwt/project-plan.md",
+    "04 - Projects/wwt/Destination select.md",
+    "04 - Projects/wwt/Bug report.md",
+    "04 - Projects/wwt/Brevo.md",
+    "04 - Projects/wwt/en/Формат тест кейсів_en.md",
+    "04 - Projects/wwt/en/project-plan-en.md",
+    "04 - Projects/wwt/en/How to test backend + frontend.md",
+    "04 - Projects/wwt/en/Destination select_en.md",
+    "04 - Projects/wwt/en/Bug report_en.md",
+    "04 - Projects/wwt/images/Pasted image 20240510152317.png",
+    "04 - Projects/wwt/images/Pasted image 20240510152341.png",
+    "04 - Projects/wwt/images",
+    "04 - Projects/wwt/en",
+    "04 - Projects/wwt/Untitled 1.md",
+    "04 - Projects/wwt/Git.md",
+    "03 - Programming/base/big numbers/Довга арифметика.md",
+    "03 - Programming/base/big numbers/images",
+    "03 - Programming/base/big numbers/images/Pasted image 20240508214207.png",
+    "03 - Programming/base/big numbers",
+    "03 - Programming/base",
+    "01 - Fast notes/Якщо чогось не розумієш - пиши книгу.md",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240508211950.png",
+    "02 - Learning/books/Hyperfocus/Hyperfocus.md",
+    "02 - Learning/books/Hyperfocus/Intro.md",
+    "03 - Programming/js/ydnjs/up & going.md",
+    "03 - Programming/http/CORS.md",
+    "02 - Learning/books/Power.pdf",
     "01 - Fast notes",
     "02 - Learning",
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
@@ -209,17 +241,8 @@
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084755.png",
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084614.png",
     "03 - Programming/algoritms/images/Pasted image 20230521123641.png",
-    "03 - Programming/algoritms/images/Pasted image 20230521130449.png",
     "03 - Programming/algoritms/images",
-    "02 - Learning/courses/Learning how to learn/images/Pasted image 20230427133944.png",
-    "02 - Learning/courses/Learning how to learn/images/Pasted image 20230427134518.png",
-    "02 - Learning/courses/Learning how to learn/images",
-    "assets/Untitled",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084824.png",
-    "git/images",
     "tmp/Untitled 1.canvas",
-    "Untitled.canvas",
-    "02 - Learning/courses/Learning how to learn",
-    "04 - Projects/wwt"
+    "Untitled.canvas"
   ]
 }

@@ -3,7 +3,6 @@ title: Command Line Network Configuration
 created: 2023-12-05 08:58
 aliases: 
 tags:
-  - course
   - courseera
   - linux
 ---

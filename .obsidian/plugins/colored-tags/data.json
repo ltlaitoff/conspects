@@ -44,7 +44,8 @@
     "CORS": 36,
     "wwt": 37,
     "linux": 38,
-    "yndjs": 39
+    "yndjs": 39,
+    "quote": 40
   },
   "_version": 2
 }
