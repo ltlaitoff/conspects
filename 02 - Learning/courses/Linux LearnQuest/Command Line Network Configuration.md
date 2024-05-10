@@ -3,8 +3,7 @@ title: Command Line Network Configuration
 created: 2023-12-05 08:58
 aliases: 
 tags:
-  - courseera
-  - linux
+  - coursera/linux-learn-quest
 ---
 # Command Line Network Configuration
 

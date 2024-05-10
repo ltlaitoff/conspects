@@ -3,8 +3,7 @@ title: Basic Network Troubleshooting
 created: 2023-12-06 08:53
 aliases: 
 tags:
-  - courseera
-  - linux
+  - coursera/linux-learn-quest
 ---
 # Basic Network Troubleshooting
 

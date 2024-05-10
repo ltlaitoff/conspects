@@ -4,8 +4,7 @@ created: 2023-09-11 22:53
 Aliases:
 Tags: 
  - testing
- - QA-DL-Academy
- - QA-Lecture-09_Основи-веб-тестування
+ - QA-DL-Academy/QA-Lecture-09_Основи-веб-тестування
 ---
 
 # Jam

@@ -4,8 +4,7 @@ created: 2023-10-09 20:41
 Aliases:
 Tags: 
  - testing
- - QA-DL-Academy
- - QA-Lecture-13_Тестування-Web-3_0-та-Смарт-Контрактів
+ - QA-DL-Academy/QA-Lecture-13_Тестування-Web-3_0-та-Смарт-Контрактів
 ---
 # Тестування Web 3.0 
 

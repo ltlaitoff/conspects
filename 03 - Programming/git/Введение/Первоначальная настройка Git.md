@@ -1,7 +1,7 @@
 ---
-Tags:
-- git
-- git-config
+tags:
+  - git
+  - git/config
 ---
 ### Первоначальная настройка Git
 

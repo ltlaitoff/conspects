@@ -3,8 +3,7 @@ title: Network Configuration Files
 created: 2023-12-04 08:41
 aliases: 
 tags:
-  - courseera
-  - linux
+  - coursera/linux-learn-quest
 ---
 # Network Configuration Files
 

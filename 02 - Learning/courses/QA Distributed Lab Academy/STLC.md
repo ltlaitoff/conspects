@@ -1,8 +1,7 @@
 ---
 Tags:
  - testing
- - QA-DL-Academy
- - QA-Lecture-2_Цикл-розробки-програмного-забезпечення
+ - QA-DL-Academy/QA-Lecture-2_Цикл-розробки-програмного-забезпечення
 ---
 ## STLC
 

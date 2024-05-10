@@ -4,8 +4,7 @@ created: 2023-09-17 17:33
 Aliases:
 Tags: 
  - testing
- - QA-DL-Academy
- - QA-Lecture-10_Тестування-АPІ
+ - QA-DL-Academy/QA-Lecture-10_Тестування-АPІ
 ---
 # Що потрібно для початку тестування API
 
