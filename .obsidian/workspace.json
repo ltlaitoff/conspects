@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6626051f7a037f69",
+        "id": "0fd680609dc3c250",
         "type": "tabs",
         "children": [
           {
-            "id": "2367fb48f783e46a",
+            "id": "9e0deb4ce2fc7b25",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +168,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2367fb48f783e46a",
+  "active": "9e0deb4ce2fc7b25",
   "lastOpenFiles": [
+    "02 - Learning/courses/Learning how to learn/Як запам'ятовування пов'язанно зі сном.md",
+    "02 - Learning/courses/Learning how to learn/Practice Makes Permanent.md",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512195812.png",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512194156.png",
+    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
+    "02 - Learning/courses/Learning how to learn/Складність вивчення абстрактних понять.md",
+    "02 - Learning/courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
+    "02 - Learning/courses/Learning how to learn/Техніка Pomodoro.md",
+    "01 - Fast notes/123.md",
+    "05 - Other/planning/Plan 12.05 - 19.05.md",
+    "02 - Learning/books/Джедайскі техніки/Джедайскі техніки.md",
+    "05 - Other/planning",
+    "05 - Other",
+    "02 - Learning/courses/Learning how to learn/Прокрастинація.md",
+    "04 - Projects/asdasd.md",
+    "04 - Projects/diploma/Untitled.md",
+    "04 - Projects/wwt/Destination select.md",
+    "04 - Projects/wwt/project-plan.md",
+    "04 - Projects/wwt/Формат тест кейсів.md",
+    "04 - Projects/wwt/Як працює fe+be.md",
+    "04 - Projects/lapricot/Habbits.md",
+    "04 - Projects/lapricot",
+    "02 - Learning/courses/QA Distributed Lab Academy/tests/Test 7.md",
     "02 - Learning/courses/QA Distributed Lab Academy/Що таке тестування програмного забезпечення.md",
     "02 - Learning/courses/QA Distributed Lab Academy/У чому полягає робота тестувальника.md",
     "02 - Learning/courses/QA Distributed Lab Academy/Навіщо потрібне тестування.md",
@@ -181,25 +202,8 @@
     "02 - Learning/courses/Linux LearnQuest/Basic Network Troubleshooting.md",
     "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
     "02 - Learning/courses/Game Theory/Суть теорії ігр та її концепції.md",
-    "02 - Learning/courses/Learning how to learn/Техніка Pomodoro.md",
-    "02 - Learning/courses/Learning how to learn/Метафори та аналогії.md",
-    "02 - Learning/courses/Learning how to learn/Прокрастинація.md",
-    "02 - Learning/courses/Learning how to learn/Як запам'ятовування пов'язанно зі сном.md",
-    "02 - Learning/courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
-    "02 - Learning/courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
-    "02 - Learning/books/Гіперфокус/Гіперфокус.md",
-    "02 - Learning/books/Гіперфокус/Intro.md",
-    "02 - Learning/books/Гіперфокус/Intro-old.md",
-    "02 - Learning/books/Джедайскі техніки/Мавпо-зрозумілі задачі.md",
-    "02 - Learning/books/Джедайскі техніки/Джедайскі техніки.md",
-    "03 - Programming/git/Введение/Первоначальная настройка Git.md",
     "02 - Learning/books/Power.pdf",
     "02 - Learning/books/Джедайскі техніки",
-    "04 - Projects/wwt/en/Формат тест кейсів_en.md",
-    "04 - Projects/wwt/en/Brevo_en.md",
-    "04 - Projects/wwt/Як працює fe+be.md",
-    "04 - Projects/wwt/Формат тест кейсів.md",
-    "04 - Projects/wwt/project-plan.md",
     "04 - Projects/wwt/images/Pasted image 20240510152317.png",
     "04 - Projects/wwt/images/Pasted image 20240510152341.png",
     "04 - Projects/wwt/images",
@@ -209,15 +213,9 @@
     "03 - Programming/base/big numbers",
     "03 - Programming/base",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240508211950.png",
-    "01 - Fast notes",
-    "02 - Learning",
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
-    "02 - Learning/courses/Linux LearnQuest/images",
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090632.png",
     "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090419.png",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084755.png",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231204084614.png",
-    "03 - Programming/algoritms/images/Pasted image 20230521123641.png",
     "tmp/Untitled 1.canvas",
     "Untitled.canvas"
   ]
