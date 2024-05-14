@@ -3,7 +3,7 @@ title: Процес навантажувального тестування за
 created: 2023-09-24 20:13
 Aliases:
 Tags: 
- - testing
+ 
  - QA-DL-Academy/QA-Lecture-11_Тестування-продуктивності
 ---
 

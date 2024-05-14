@@ -1,6 +1,6 @@
 ---
 Tags:
- - testing
+ 
  - QA-DL-Academy/QA-Lecture-1_Вступ-до-тестування
 ---
 # Різниця між QA, QC та Testing

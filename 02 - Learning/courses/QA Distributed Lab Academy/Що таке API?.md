@@ -3,7 +3,7 @@ title: Що таке **API**?
 created: 2023-09-17 17:32
 Aliases:
 Tags: 
- - testing
+ 
  - QA-DL-Academy/QA-Lecture-10_Тестування-АPІ
 ---
 # Що таке **API**?

@@ -3,7 +3,7 @@ title: Що таке Web 3.0?  Чим він відрізняється від W
 created: 2023-10-09 20:40
 aliases: 
 tags:
-  - testing
+  
    - QA-DL-Academy/QA-Lecture-13_Тестування-Web-3_0-та-Смарт-Контрактів
 ---
 # Що таке Web 3.0?  Чим він відрізняється від Web 2.0 i Web 1.0

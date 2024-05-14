@@ -3,7 +3,7 @@ title: Формати передачі даних у API
 created: 2023-09-17 17:34
 Aliases:
 Tags: 
- - testing
+ 
  - QA-DL-Academy/QA-Lecture-10_Тестування-АPІ
 ---
 # Формати передачі даних у API

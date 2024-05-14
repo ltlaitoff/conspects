@@ -1,6 +1,6 @@
 ---
 tags:
-  - testing
+  
    - QA-DL-Academy/QA-Lecture-2_Цикл-розробки-програмного-забезпечення
 ---
 # Agile

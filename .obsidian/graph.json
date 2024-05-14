@@ -13,18 +13,39 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#coursera/learning-how-to-learn  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#book  ",
+      "color": {
+        "a": 1,
+        "rgb": 15275746
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.686979166666667,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.3296875,
   "collapse-forces": false,
-  "centerStrength": 0.403645833333333,
+  "centerStrength": 0.4375,
   "repelStrength": 12.8645833333333,
-  "linkStrength": 0.799479166666667,
+  "linkStrength": 1,
   "linkDistance": 264,
-  "scale": 0.017578125,
-  "close": true
+  "scale": 0.3003387451171875,
+  "close": false
 }
