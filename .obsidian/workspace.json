@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "548d636d0e077ad6",
+        "id": "12d107943716a261",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4f0cac8ad2799a",
+            "id": "c4808193a7adebad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/techniques/Spaced repetition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "879ba3baf0f44d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Learning/techniques/Spaced repetition.md",
+                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/techniques/Spaced repetition.md",
+                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/techniques/Spaced repetition.md",
+                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/techniques/Spaced repetition.md"
+                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md"
               }
             }
           },
@@ -189,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e4f0cac8ad2799a",
+  "active": "a24dc56c09266e71",
   "lastOpenFiles": [
+    "06 - University",
     "02 - Learning/courses/Learning how to learn/Робоча та довгострокова пам'ять.md",
     "02 - Learning/techniques/Spaced repetition.md",
     "02 - Learning/techniques",
@@ -218,7 +207,6 @@
     "02 - Learning/courses/Game Theory/Суть теорії ігр та її концепції.md",
     "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
     "02 - Learning/books/Гіперфокус/Гіперфокус.md",
-    "02 - Learning/books/Гіперфокус/Intro-old.md",
     "02 - Learning/books/How to take smart notes",
     "02 - Learning/books/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512195812.png",
