@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12d107943716a261",
+        "id": "9750adad77fc8e53",
         "type": "tabs",
         "children": [
           {
-            "id": "c4808193a7adebad",
+            "id": "3763dfa491ca74a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
+                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " Робоча",
+                "query": "tag:university/philosophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
+                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
+                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md"
+                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md"
               }
             }
           },
@@ -157,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,54 +178,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a24dc56c09266e71",
+  "active": "3d545f4ee89dcaa5",
   "lastOpenFiles": [
-    "06 - University",
-    "02 - Learning/courses/Learning how to learn/Робоча та довгострокова пам'ять.md",
-    "02 - Learning/techniques/Spaced repetition.md",
-    "02 - Learning/techniques",
-    "02 - Learning/courses/Learning how to learn/Practice Makes Permanent.md",
-    "02 - Learning/courses/Learning how to learn/Прокрастинація.md",
-    "02 - Learning/courses/Learning how to learn/Техніка Pomodoro.md",
-    "02 - Learning/courses/Learning how to learn/Складність вивчення абстрактних понять.md",
-    "02 - Learning/courses/Learning how to learn/Метафори та аналогії.md",
-    "02 - Learning/courses/Learning how to learn/Використання Сфокусованого та Розсіяного режимів.md",
-    "02 - Learning/courses/QA Distributed Lab Academy/Інструменти.md",
-    "02 - Learning/courses/Learning how to learn/Як запам'ятовування пов'язанно зі сном.md",
-    "02 - Learning/courses/Learning how to learn/Вступ до Сфокусованого та Розсіяного режимів.md",
-    "03 - Programming/git/Введение/Git обычно только добавляет данные.md",
-    "04 - Projects/wwt/en/Brevo_en.md",
-    "04 - Projects/wwt/en/Authorization_en.md",
+    "01 - My/daily/09-06-2024.md",
+    "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
+    "01 - My/My life",
+    "99 - templates/Daily.md",
+    "99 - templates/Default template.md",
+    "01 - My/daily",
+    "01 - Fast notes/09-06-2024.md",
+    "01 - My/Untitled.md",
+    "01 - Fast notes/123.md",
+    "02 - Learning/Untitled.md",
+    "01 - Fast notes/09-06 2024.md",
+    "01 - Fast notes/1.md",
+    "README.md",
+    "04 - Projects/wwt/en/How to display icons.md",
     "04 - Projects/wwt/Authorization.md",
-    "04 - Projects/wwt/en/Calendar_en.md",
-    "04 - Projects/wwt/en/Bug report_en.md",
-    "04 - Projects/wwt/Calendar.md",
-    "02 - Learning/books/How to take smart notes/How to take smart notes.md",
-    "02 - Learning/english/anki/how-to-take-a-smart-notes.md",
-    "02 - Learning/english/anki/ydnjs.md",
-    "02 - Learning/books/How to Take Smart Notes.pdf",
-    "04 - Projects/wwt/Workflow.md",
-    "02 - Learning/courses/Game Theory/Суть теорії ігр та її концепції.md",
-    "02 - Learning/courses/Game Theory/Егоїстичні агенти та теорія корисності.md",
-    "02 - Learning/books/Гіперфокус/Гіперфокус.md",
-    "02 - Learning/books/How to take smart notes",
-    "02 - Learning/books/How-to-Take-Smart-Notes-by-Sönke-Ahrens-40zol.pdf",
+    "04 - Projects/wwt/en/Destination select_en.md",
+    "04 - Projects/wwt/Brevo.md",
+    "04 - Projects/wwt/project-plan.md",
+    "04 - Projects/wwt/en/Як показуються іконки 1.md",
+    "04 - Projects/wwt/Як показуються іконки.md",
+    "04 - Projects/wwt/Формат тест кейсів.md",
+    "04 - Projects/wwt/Room dynamic tab.md",
+    "04 - Projects/wwt/tmp.md",
+    "04 - Projects/lapricot/Habbits.md",
+    "04 - Projects/wwt/Test tasks/vladyslav5-test-task.md",
+    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
+    "04 - Projects/wwt/Test tasks/horobetsjerv-test-task.md",
+    "04 - Projects/wwt/Test tasks/MY.md",
+    "04 - Projects/wwt/Test tasks/Untitled",
+    "04 - Projects/wwt/Test tasks",
+    "01 - My/quotes",
+    "06 - University/philosophy/done",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript",
+    "06 - University/philosophy/paper",
+    "06 - University/philosophy/images",
+    "06 - University/philosophy/images/Pasted image 20240518211253.png",
+    "Pasted image 20240518202841.png",
+    "Pasted image 20240518202849.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512195812.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512194156.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
-    "05 - Other/planning",
-    "05 - Other",
-    "04 - Projects/lapricot",
-    "02 - Learning/books/Power.pdf",
-    "02 - Learning/books/Джедайскі техніки",
     "04 - Projects/wwt/images/Pasted image 20240510152317.png",
     "04 - Projects/wwt/images/Pasted image 20240510152341.png",
-    "04 - Projects/wwt/images",
-    "03 - Programming/base/big numbers/images/Pasted image 20240508214207.png",
-    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240508211950.png",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20230929214134.png",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090632.png",
-    "02 - Learning/courses/Linux LearnQuest/images/Pasted image 20231205090419.png",
     "tmp/Untitled 1.canvas",
     "Untitled.canvas"
   ]

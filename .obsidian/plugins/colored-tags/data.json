@@ -74,7 +74,16 @@
     "-": 46,
     "lapricot": 47,
     "book/how-to-take-smart-notes": 3,
-    "techniques": 48
+    "techniques": 48,
+    "university": 49,
+    "university/philosophy": 1,
+    "my": 50,
+    "my/planning": 1,
+    "Мастерклас": 51,
+    "Мастерклас/Unit-тестирование_в_JavaScript": 1,
+    "javascript-ninja": 52,
+    "Draft": 53,
+    "daily": 54
   },
   "_version": 2
 }

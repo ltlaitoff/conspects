@@ -55,27 +55,27 @@ There are two options:
 
 ### Dev
 
-`Dev` - a version that is currently under development, which may not work, or work a bit crookedly
+`Dev` - a version that is currently under development, which may not function, or function imperfectly
 
-This version contains the latest changes that can be made at all
+This version contains the most recent changes that can be implemented at all
 
 You can also use any version of `backend` here
 
 #### How to test this?
 
-Just go to the branch and run it
+Simply switch to the branch and run it
 
 ### feature/bug/other
 
 `feature/bug/other` - These are our pull requests
 
-Depending on which branch they go to, they need to be tested differently
+Depending on which branch they are directed to, they need to be tested differently
 
-If the PR goes to `dev` - test from `backend` used on `dev`
+If the PR is directed to `dev` - test from `backend` used on `dev`
 
-If the PR goes to `staging` - test from `backend` used on `staging`
+If the PR is directed to `staging` - test from `backend` used on `staging`
 
-If the PR goes to `release` - test like `staging`
+If the PR is directed to `release` - test like `staging`
 
 ## Backend
 
