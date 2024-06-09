@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/daily/09-06-2024.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/09-06-2024.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/09-06-2024.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/09-06-2024.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,6 +156,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4907a1df2d9077de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -180,23 +188,25 @@
   },
   "active": "d737e3065c092163",
   "lastOpenFiles": [
+    "01 - My/Untitled.md",
+    "Untitled.canvas",
+    "README.md",
     "01 - My/quotes/Якщо чогось не розумієш - пиши книгу.md",
+    "Untitled.md",
+    "01 - My/daily/09-06-2024.md",
     "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
     "01 - My/My life/Як виглядає мій ідеальний відпочинок?.md",
     "01 - My/My life/Як виглядає мій ідеальний вечір перед сном.md",
     "01 - My/My life/Як виглядає мій ідеальний вечір?.md",
-    "01 - My/daily/09-06-2024.md",
     "01 - My/My life",
     "99 - templates/Daily.md",
     "99 - templates/Default template.md",
     "01 - My/daily",
     "01 - Fast notes/09-06-2024.md",
-    "01 - My/Untitled.md",
     "01 - Fast notes/123.md",
     "02 - Learning/Untitled.md",
     "01 - Fast notes/09-06 2024.md",
     "01 - Fast notes/1.md",
-    "README.md",
     "04 - Projects/wwt/en/How to display icons.md",
     "04 - Projects/wwt/Authorization.md",
     "04 - Projects/wwt/en/Destination select_en.md",
@@ -206,8 +216,6 @@
     "04 - Projects/wwt/Як показуються іконки.md",
     "04 - Projects/wwt/Формат тест кейсів.md",
     "04 - Projects/wwt/Room dynamic tab.md",
-    "04 - Projects/wwt/tmp.md",
-    "04 - Projects/lapricot/Habbits.md",
     "04 - Projects/wwt/Test tasks/Untitled",
     "04 - Projects/wwt/Test tasks",
     "01 - My/quotes",
@@ -226,7 +234,6 @@
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
     "04 - Projects/wwt/images/Pasted image 20240510152317.png",
     "04 - Projects/wwt/images/Pasted image 20240510152341.png",
-    "tmp/Untitled 1.canvas",
-    "Untitled.canvas"
+    "tmp/Untitled 1.canvas"
   ]
 }
