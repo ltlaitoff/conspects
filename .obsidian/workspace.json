@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9750adad77fc8e53",
+        "id": "abb4948af32c31c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3763dfa491ca74a4",
+            "id": "d737e3065c092163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
+                "file": "01 - My/daily/09-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
+                "file": "01 - My/daily/09-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
+                "file": "01 - My/daily/09-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/My life/Як виглядає мій ідеальний ранок?.md"
+                "file": "01 - My/daily/09-06-2024.md"
               }
             }
           },
@@ -178,10 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d545f4ee89dcaa5",
+  "active": "d737e3065c092163",
   "lastOpenFiles": [
-    "01 - My/daily/09-06-2024.md",
+    "01 - My/quotes/Якщо чогось не розумієш - пиши книгу.md",
     "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
+    "01 - My/My life/Як виглядає мій ідеальний відпочинок?.md",
+    "01 - My/My life/Як виглядає мій ідеальний вечір перед сном.md",
+    "01 - My/My life/Як виглядає мій ідеальний вечір?.md",
+    "01 - My/daily/09-06-2024.md",
     "01 - My/My life",
     "99 - templates/Daily.md",
     "99 - templates/Default template.md",
@@ -204,10 +208,6 @@
     "04 - Projects/wwt/Room dynamic tab.md",
     "04 - Projects/wwt/tmp.md",
     "04 - Projects/lapricot/Habbits.md",
-    "04 - Projects/wwt/Test tasks/vladyslav5-test-task.md",
-    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
-    "04 - Projects/wwt/Test tasks/horobetsjerv-test-task.md",
-    "04 - Projects/wwt/Test tasks/MY.md",
     "04 - Projects/wwt/Test tasks/Untitled",
     "04 - Projects/wwt/Test tasks",
     "01 - My/quotes",
