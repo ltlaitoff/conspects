@@ -8,3 +8,20 @@ LIST
 FROM #book 
 ```
 
+```tracker
+searchType: frontmatter
+searchTarget: habbit1, habbit2
+folder: 01 - My/daily
+dateFormat: DD-MM-YYYY
+month:
+	mode: annotation
+	startWeekOn: 'Mon'
+	threshold: 0, 0
+	dimNotInMonth: false
+	circleColorByValue: true
+	annotation: L, D
+	showAnnotationOfAllTargets: true
+```
+
+
+

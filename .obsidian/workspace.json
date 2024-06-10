@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "abb4948af32c31c8",
+        "id": "5d6bdf4a1806069c",
         "type": "tabs",
         "children": [
           {
-            "id": "d737e3065c092163",
+            "id": "1f9b61fffd893bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "99 - templates/Habbit-June.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e534dcc0609ce73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - My/quotes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 - My/quotes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 - My/quotes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - My/quotes/Untitled.md"
               }
             }
           },
@@ -186,36 +199,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d737e3065c092163",
+  "active": "7e534dcc0609ce73",
   "lastOpenFiles": [
-    "01 - My/Untitled.md",
-    "Untitled.canvas",
+    "01 - My/daily/10-06-2024.md",
+    "01 - My/quotes/Untitled.md",
+    "01 - My/daily/9-06-2024.md",
+    "99 - templates/Habbit-June.md",
     "README.md",
-    "01 - My/quotes/Якщо чогось не розумієш - пиши книгу.md",
-    "Untitled.md",
+    "Untitled.canvas",
+    "01 - My/Goals/Learn js.md",
+    "01 - My/Goals/Learn react.md",
+    "99 - templates/Daily.md",
+    "99 - templates/Default template.md",
+    "99 - templates/Goal.md",
+    "01 - My/Goals/Learn patterns.md",
+    "01 - My/Goals/Learn REGEX.md",
+    "01 - My/Goals/Learn HTML.md",
+    "01 - My/Goals/Learn css.md",
     "01 - My/daily/09-06-2024.md",
+    "04 - Projects/lapricot/Habbits.md",
+    "01 - My/My life/09.06.2024.md",
+    "01 - My/quotes/Якщо чогось не розумієш - пиши книгу.md",
+    "01 - My/temp/08-06-2024.md",
+    "02 - Learning/books/How to take smart notes/How to take smart notes.md",
+    "Learn Kubernetes.md",
+    "01 - My/Untitled.md",
+    "01 - My/temp",
+    "01 - My/Goals",
+    "Untitled.md",
     "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
     "01 - My/My life/Як виглядає мій ідеальний відпочинок?.md",
     "01 - My/My life/Як виглядає мій ідеальний вечір перед сном.md",
-    "01 - My/My life/Як виглядає мій ідеальний вечір?.md",
     "01 - My/My life",
-    "99 - templates/Daily.md",
-    "99 - templates/Default template.md",
     "01 - My/daily",
-    "01 - Fast notes/09-06-2024.md",
-    "01 - Fast notes/123.md",
-    "02 - Learning/Untitled.md",
-    "01 - Fast notes/09-06 2024.md",
-    "01 - Fast notes/1.md",
-    "04 - Projects/wwt/en/How to display icons.md",
-    "04 - Projects/wwt/Authorization.md",
-    "04 - Projects/wwt/en/Destination select_en.md",
-    "04 - Projects/wwt/Brevo.md",
-    "04 - Projects/wwt/project-plan.md",
-    "04 - Projects/wwt/en/Як показуються іконки 1.md",
-    "04 - Projects/wwt/Як показуються іконки.md",
-    "04 - Projects/wwt/Формат тест кейсів.md",
-    "04 - Projects/wwt/Room dynamic tab.md",
     "04 - Projects/wwt/Test tasks/Untitled",
     "04 - Projects/wwt/Test tasks",
     "01 - My/quotes",
@@ -224,8 +240,6 @@
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript",
-    "06 - University/philosophy/paper",
-    "06 - University/philosophy/images",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
     "Pasted image 20240518202841.png",
     "Pasted image 20240518202849.png",

@@ -1,4 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"322fe5ab21d5febd","type":"text","text":"```tracker\nsearchType: frontmatter\nsearchTarget: habbit1, habbit2\nfolder: 01 - My/daily\ndateFormat: DD-MM-YYYY\nmonth:\n\tmode: annotation\n\tstartWeekOn: 'Mon'\n\tthreshold: 0, 0\n\tdimNotInMonth: false\n\tcircleColorByValue: true\n\tannotation: L, D\n\tshowAnnotationOfAllTargets: true\n```","x":20,"y":-140,"width":560,"height":460},
+		{"id":"0767e07442b4ec46","type":"text","text":"# 📓 Recent Journal Entries\n```dataview\nTABLE\nchoice(contains(habbit1, \"true\"), \"✔️\", \"❌\") as h1,\nchoice(contains(habbit2, \"true\"), \"✔️\", \"❌\") as h2\nFROM \"01 - My/daily\"\nSORT file.name DESC\nLIMIT 5\n```","x":600,"y":-140,"width":744,"height":460}
+	],
 	"edges":[]
 }
