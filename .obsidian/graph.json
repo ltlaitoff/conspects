@@ -18,14 +18,7 @@
       "query": "tag:#coursera/learning-how-to-learn  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#book  ",
-      "color": {
-        "a": 1,
-        "rgb": 15275746
+        "rgb": 4010722
       }
     },
     {
@@ -33,6 +26,20 @@
       "color": {
         "a": 1,
         "rgb": 13526843
+      }
+    },
+    {
+      "query": "tag:#book/you-dont-know-js",
+      "color": {
+        "a": 1,
+        "rgb": 16244510
+      }
+    },
+    {
+      "query": "tag:#book",
+      "color": {
+        "a": 1,
+        "rgb": 14494903
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 12.8645833333333,
   "linkStrength": 1,
   "linkDistance": 264,
-  "scale": 0.3003387451171875,
-  "close": false
+  "scale": 0.6757621765136719,
+  "close": true
 }

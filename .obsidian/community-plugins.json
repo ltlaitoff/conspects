@@ -11,5 +11,6 @@
   "graph-nested-tags",
   "calendar",
   "dataview",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "obsidian-discordrpc"
 ]
