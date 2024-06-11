@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6bdf4a1806069c",
+        "id": "87fc707b47a474a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9b61fffd893bd9",
+            "id": "736abc816d25b709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - templates/Habbit-June.md",
+                "file": "04 - Projects/wwt/Test tasks/Igor2698.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e534dcc0609ce73",
+            "id": "b6d40b9c81d00637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/quotes/Untitled.md",
+                "file": "04 - Projects/wwt/Test tasks/glebfarmon.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/quotes/Untitled.md",
+                "file": "04 - Projects/wwt/Test tasks/glebfarmon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/quotes/Untitled.md",
+                "file": "04 - Projects/wwt/Test tasks/glebfarmon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/quotes/Untitled.md"
+                "file": "04 - Projects/wwt/Test tasks/glebfarmon.md"
               }
             }
           },
@@ -199,18 +199,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e534dcc0609ce73",
+  "active": "b6d40b9c81d00637",
   "lastOpenFiles": [
-    "01 - My/daily/10-06-2024.md",
-    "01 - My/quotes/Untitled.md",
-    "01 - My/daily/9-06-2024.md",
+    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
+    "04 - Projects/wwt/Test tasks/vladyslav-penkin.md",
+    "04 - Projects/wwt/Test tasks/Igor2698.md",
+    "04 - Projects/wwt/Test tasks/glebfarmon.md",
+    "().md",
+    "04 - Projects/wwt/Test tasks/vladyslav5-test-task.md",
+    "99 - templates/WWT-TEST-TASK.md",
+    "04 - Projects/wwt/Test tasks/MY.md",
     "99 - templates/Habbit-June.md",
+    "04 - Projects/wwt/Test tasks/test.md",
+    "99 - templates/Default template.md",
+    "99 - templates/Daily.md",
+    "Logo (40 px).png",
+    "01 - My/quotes/Untitled.md",
+    "01 - My/daily/10-06-2024.md",
+    "01 - My/daily/9-06-2024.md",
     "README.md",
     "Untitled.canvas",
     "01 - My/Goals/Learn js.md",
     "01 - My/Goals/Learn react.md",
-    "99 - templates/Daily.md",
-    "99 - templates/Default template.md",
     "99 - templates/Goal.md",
     "01 - My/Goals/Learn patterns.md",
     "01 - My/Goals/Learn REGEX.md",
@@ -219,17 +229,8 @@
     "01 - My/daily/09-06-2024.md",
     "04 - Projects/lapricot/Habbits.md",
     "01 - My/My life/09.06.2024.md",
-    "01 - My/quotes/Якщо чогось не розумієш - пиши книгу.md",
-    "01 - My/temp/08-06-2024.md",
-    "02 - Learning/books/How to take smart notes/How to take smart notes.md",
-    "Learn Kubernetes.md",
-    "01 - My/Untitled.md",
     "01 - My/temp",
     "01 - My/Goals",
-    "Untitled.md",
-    "01 - My/My life/Як виглядає мій ідеальний ранок?.md",
-    "01 - My/My life/Як виглядає мій ідеальний відпочинок?.md",
-    "01 - My/My life/Як виглядає мій ідеальний вечір перед сном.md",
     "01 - My/My life",
     "01 - My/daily",
     "04 - Projects/wwt/Test tasks/Untitled",
@@ -247,7 +248,6 @@
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512194156.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
     "04 - Projects/wwt/images/Pasted image 20240510152317.png",
-    "04 - Projects/wwt/images/Pasted image 20240510152341.png",
     "tmp/Untitled 1.canvas"
   ]
 }
