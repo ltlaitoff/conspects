@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+                "file": "01 - My/daily/11-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+                "file": "01 - My/daily/11-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+                "file": "01 - My/daily/11-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md"
+                "file": "01 - My/daily/11-06-2024.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "106663f12acfde0d",
   "lastOpenFiles": [
-    "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
     "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+    "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
     "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
     "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
     "03 - Programming/base/Abstract Syntax Tree.md",
