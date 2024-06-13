@@ -2,9 +2,9 @@
 title: horobetsjerv-test-task
 created: 2024-05-31 10:14
 last modified: Friday 31st May 2024 10:14:17
-Aliases:
-Tags:
-
+aliases: 
+tags:
+  - winwintravel/test-task
 ---
 # horobetsjerv-test-task
 

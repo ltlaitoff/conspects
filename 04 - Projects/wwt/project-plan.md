@@ -1,7 +1,7 @@
 ---
 title: WinWinTravel MVP
 tags:
-  - wwt
+  - winwintravel
 ---
 
 # WinWinTravel frontend plan

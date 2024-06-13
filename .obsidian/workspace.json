@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "87fc707b47a474a9",
+        "id": "5a4596a06e181194",
         "type": "tabs",
         "children": [
           {
-            "id": "106663f12acfde0d",
+            "id": "baacaecabf323b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Igor2698.md",
+                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "6425628e9daa7704",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:university/philosophy",
+                "query": "tag:#winwintravel/test-task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Igor2698.md",
+                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Igor2698.md",
+                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Igor2698.md"
+                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md"
               }
             }
           },
@@ -186,35 +194,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "106663f12acfde0d",
+  "active": "baacaecabf323b9f",
   "lastOpenFiles": [
-    "04 - Projects/wwt/Test tasks/vladyslav-penkin.md",
-    "04 - Projects/wwt/Test tasks/Igor2698.md",
-    "04 - Projects/wwt/Test tasks/horobetsjerv-test-task.md",
-    "04 - Projects/wwt/MY.md",
-    "01 - My/daily/12-06-2024.md",
-    "01 - My/daily/11-06-2024.md",
+    "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
     "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+    "Abstract Syntax Tree.md",
+    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
+    "Nested scope.md",
+    "02 - Learning/books/You don't know JavaScript/Взаємодія Engine та Scope.md",
     "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
     "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
-    "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
-    "03 - Programming/base/Abstract Syntax Tree.md",
-    "AST.md",
-    "Lexing.md",
-    "99 - templates/Default template.md",
+    "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
+    "02 - Learning/books/You don't know JavaScript/Compiler Speak.md",
+    "04 - Projects/wwt/UTM.md",
+    "Pasted image 20240613084242.png",
+    "04 - Projects/wwt/en/UTM.md",
+    "04 - Projects/wwt/Workflow.md",
+    "04 - Projects/wwt/Як працює fe+be.md",
+    "04 - Projects/wwt/Як показуються іконки.md",
+    "04 - Projects/wwt/Формат тест кейсів.md",
+    "04 - Projects/wwt/Sets.md",
+    "04 - Projects/wwt/Room dynamic tab.md",
+    "04 - Projects/wwt/project-plan.md",
+    "04 - Projects/wwt/Destination select.md",
+    "04 - Projects/wwt/Calendar.md",
+    "04 - Projects/wwt/Bug report.md",
+    "04 - Projects/wwt/Brevo.md",
+    "04 - Projects/wwt/Authorization.md",
+    "04 - Projects/wwt/tmp/MY.md",
+    "04 - Projects/wwt/tmp/tmp.md",
+    "04 - Projects/wwt/tmp",
+    "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
-    "99 - templates/ydnjs.md",
-    "01 - My/Goals/Learn js.md",
-    "01 - My/Goals/Learn react.md",
-    "01 - My/daily/10-06-2024.md",
-    "01 - My/daily/9-06-2024.md",
-    "04 - Projects/wwt/Test tasks/glebfarmon.md",
-    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
-    "().md",
-    "04 - Projects/wwt/Test tasks/vladyslav5-test-task.md",
-    "99 - templates/WWT-TEST-TASK.md",
-    "99 - templates/Habbit-June.md",
-    "04 - Projects/wwt/Test tasks/test.md",
     "Logo (40 px).png",
     "Untitled.canvas",
     "01 - My/temp",
@@ -227,14 +238,12 @@
     "06 - University/philosophy/done",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
-    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
     "Pasted image 20240518202841.png",
     "Pasted image 20240518202849.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512195812.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512194156.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
-    "04 - Projects/wwt/images/Pasted image 20240510152317.png",
     "tmp/Untitled 1.canvas"
   ]
 }

@@ -2,9 +2,9 @@
 title: Room dynamic tab
 created: 2024-05-30 10:23
 last modified: Thursday 30th May 2024 10:23:00
-Aliases:
-Tags:
-
+aliases: 
+tags:
+  - winwintravel
 ---
 # Room dynamic tab
 

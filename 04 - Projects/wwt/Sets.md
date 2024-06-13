@@ -2,9 +2,9 @@
 title: Sets
 created: 2024-05-21 11:33
 last modified: Tuesday 21st May 2024 11:33:08
-Aliases:
-Tags:
-
+aliases: 
+tags:
+  - winwintravel
 ---
 # FAST NOTES
 

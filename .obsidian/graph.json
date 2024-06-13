@@ -4,55 +4,34 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#QA-DL-Academy  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#coursera/learning-how-to-learn  ",
-      "color": {
-        "a": 1,
-        "rgb": 4010722
-      }
-    },
-    {
-      "query": "tag:#university  ",
-      "color": {
-        "a": 1,
-        "rgb": 13526843
-      }
-    },
-    {
-      "query": "tag:#book/you-dont-know-js",
+      "query": "tag:#book/you-dont-know-js  ",
       "color": {
         "a": 1,
         "rgb": 16244510
       }
     },
     {
-      "query": "tag:#book",
+      "query": "tag:#daily  ",
       "color": {
         "a": 1,
-        "rgb": 14494903
+        "rgb": 9657558
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 0.3296875,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.4375,
-  "repelStrength": 12.8645833333333,
-  "linkStrength": 1,
-  "linkDistance": 264,
-  "scale": 0.6757621765136719,
-  "close": true
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 9.58333333333333,
+  "linkStrength": 0.963541666666667,
+  "linkDistance": 233,
+  "scale": 1.0136432647705078,
+  "close": false
 }
