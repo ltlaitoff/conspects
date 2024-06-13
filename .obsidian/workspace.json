@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
+                "file": "01 - My/daily/13-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
+                "file": "01 - My/daily/13-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
+                "file": "01 - My/daily/13-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md"
+                "file": "01 - My/daily/13-06-2024.md"
               }
             }
           },
@@ -196,10 +196,11 @@
   },
   "active": "baacaecabf323b9f",
   "lastOpenFiles": [
+    "01 - My/daily/12-06-2024.md",
+    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
     "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
     "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
     "Abstract Syntax Tree.md",
-    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
     "Nested scope.md",
     "02 - Learning/books/You don't know JavaScript/Взаємодія Engine та Scope.md",
     "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
@@ -222,7 +223,6 @@
     "04 - Projects/wwt/Brevo.md",
     "04 - Projects/wwt/Authorization.md",
     "04 - Projects/wwt/tmp/MY.md",
-    "04 - Projects/wwt/tmp/tmp.md",
     "04 - Projects/wwt/tmp",
     "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
