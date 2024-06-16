@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4596a06e181194",
+        "id": "1b5963ccd36b7a09",
         "type": "tabs",
         "children": [
           {
-            "id": "baacaecabf323b9f",
+            "id": "8f1976decf142cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/daily/16-06-2024.md",
+                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/16-06-2024.md",
+                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/16-06-2024.md",
+                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/16-06-2024.md"
+                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md"
               }
             }
           },
@@ -186,8 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "baacaecabf323b9f",
+  "active": "8f1976decf142cef",
   "lastOpenFiles": [
+    "04 - Projects/wwt/Test tasks/vladyslav-penkin.md",
+    "04 - Projects/wwt/Test tasks/Igor2698.md",
+    "04 - Projects/wwt/Test tasks/glebfarmon.md",
+    "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
+    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
     "01 - My/daily/16-06-2024.md",
     "01 - My/daily/15-06-2024.md",
     "01 - My/daily/14-06-2024.md",
@@ -210,11 +215,6 @@
     "04 - Projects/wwt/Як працює fe+be.md",
     "04 - Projects/wwt/Як показуються іконки.md",
     "04 - Projects/wwt/Формат тест кейсів.md",
-    "04 - Projects/wwt/Sets.md",
-    "04 - Projects/wwt/Room dynamic tab.md",
-    "04 - Projects/wwt/project-plan.md",
-    "04 - Projects/wwt/Destination select.md",
-    "04 - Projects/wwt/Calendar.md",
     "04 - Projects/wwt/tmp",
     "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
