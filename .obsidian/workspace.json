@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5963ccd36b7a09",
+        "id": "45aa3f335fd61150",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1976decf142cef",
+            "id": "4389118660264036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
+                "file": "06 - University/Sport programming/Lab 3 task 8.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "edc0ca4a8981eb55",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
+                "file": "06 - University/Sport programming/Lab 3 task 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
+                "file": "06 - University/Sport programming/Lab 3 task 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projects/wwt/Test tasks/Adamovproga2003.md"
+                "file": "06 - University/Sport programming/Lab 3 task 8.md"
               }
             }
           },
@@ -186,39 +194,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f1976decf142cef",
+  "active": "4389118660264036",
   "lastOpenFiles": [
+    "06 - University/philosophy/Німецька класична філософія.md",
+    "06 - University/Sport programming/Lab 3 task 8.md",
+    "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
+    "02 - Learning/books/You don't know JavaScript/Важливість виклику LHS або RHS.md",
+    "06 - University/Sport programming",
+    "Strict mode.md",
+    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
+    "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
+    "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
+    "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
+    "02 - Learning/books/You don't know JavaScript/assets",
+    "04 - Projects/wwt/images/Pasted image 20240613084242.png",
+    "04 - Projects/wwt/images/Logo (40 px).png",
+    "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
+    "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
     "04 - Projects/wwt/Test tasks/vladyslav-penkin.md",
     "04 - Projects/wwt/Test tasks/Igor2698.md",
     "04 - Projects/wwt/Test tasks/glebfarmon.md",
-    "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
     "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
     "01 - My/daily/16-06-2024.md",
     "01 - My/daily/15-06-2024.md",
     "01 - My/daily/14-06-2024.md",
     "01 - My/daily/13-06-2024.md",
     "01 - My/daily/12-06-2024.md",
-    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
-    "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
-    "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
     "Abstract Syntax Tree.md",
     "Nested scope.md",
     "02 - Learning/books/You don't know JavaScript/Взаємодія Engine та Scope.md",
-    "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
-    "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
     "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
     "02 - Learning/books/You don't know JavaScript/Compiler Speak.md",
     "04 - Projects/wwt/UTM.md",
-    "Pasted image 20240613084242.png",
     "04 - Projects/wwt/en/UTM.md",
-    "04 - Projects/wwt/Workflow.md",
-    "04 - Projects/wwt/Як працює fe+be.md",
-    "04 - Projects/wwt/Як показуються іконки.md",
-    "04 - Projects/wwt/Формат тест кейсів.md",
     "04 - Projects/wwt/tmp",
     "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
-    "Logo (40 px).png",
     "Untitled.canvas",
     "01 - My/temp",
     "01 - My/Goals",
@@ -226,8 +237,6 @@
     "01 - My/daily",
     "04 - Projects/wwt/Test tasks/Untitled",
     "04 - Projects/wwt/Test tasks",
-    "01 - My/quotes",
-    "06 - University/philosophy/done",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
@@ -235,7 +244,6 @@
     "Pasted image 20240518202849.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512195812.png",
     "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512194156.png",
-    "02 - Learning/courses/Learning how to learn/images/Pasted image 20240512193849.png",
     "tmp/Untitled 1.canvas"
   ]
 }
