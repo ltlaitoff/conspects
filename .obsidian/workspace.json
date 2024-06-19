@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Sport programming/Lab 3 task 8.md",
+                "file": "01 - My/daily/19-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Sport programming/Lab 3 task 8.md",
+                "file": "01 - My/daily/19-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Sport programming/Lab 3 task 8.md",
+                "file": "01 - My/daily/19-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Sport programming/Lab 3 task 8.md"
+                "file": "01 - My/daily/19-06-2024.md"
               }
             }
           },
@@ -194,11 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a24dc56c09266e71",
+  "active": "4389118660264036",
   "lastOpenFiles": [
+    "99 - templates/Habbit-June.md",
+    "01 - My/daily/19-06-2024.md",
+    "01 - My/daily/18-06-2024.md",
+    "06 - University/Sport programming/Lab 3 task 8.md",
     "01 - My/daily/17-06-2024.md",
     "01 - My/daily/16-06-2024.md",
-    "06 - University/Sport programming/Lab 3 task 8.md",
     "06 - University/philosophy/Німецька класична філософія.md",
     "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
     "02 - Learning/books/You don't know JavaScript/Важливість виклику LHS або RHS.md",
@@ -224,9 +227,6 @@
     "Abstract Syntax Tree.md",
     "Nested scope.md",
     "02 - Learning/books/You don't know JavaScript/Взаємодія Engine та Scope.md",
-    "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
-    "02 - Learning/books/You don't know JavaScript/Compiler Speak.md",
-    "04 - Projects/wwt/UTM.md",
     "04 - Projects/wwt/tmp",
     "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
