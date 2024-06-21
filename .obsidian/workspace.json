@@ -8,50 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4389118660264036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - My/Як виглядає мій ідеальний день.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e29c070cae0b64b8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
+                "file": "01 - My/daily/21-06-2024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "02d3ad1aa19a6e45",
+            "id": "5f50ffcd01efb349",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
+                "file": "01 - My/Що мені не зручно в vim?.md",
                 "mode": "source",
-                "source": true
-              }
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "edc0ca4a8981eb55",
+            "id": "24f8bfb691df3928",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 992,
+                  "y": 64.6796875,
+                  "zoom": 0
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/Як виглядає мій ідеальний день.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/Як виглядає мій ідеальний день.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/Як виглядає мій ідеальний день.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -218,13 +218,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4389118660264036",
+  "active": "24f8bfb691df3928",
   "lastOpenFiles": [
-    "01 - My/daily/19-06-2024.md",
-    "01 - My/Як виглядає мій ідеальний день.md",
-    "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
-    "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
+    "01 - My/Що мені не зручно в vim?.md",
+    "Untitled.canvas",
+    "01 - My/daily/21-06-2024.md",
+    "Untitled 1.canvas",
+    "99 - templates/Habbit-June.md",
+    "01 - My/daily/20-06-2024.md",
     "01 - My/daily/18-06-2024.md",
+    "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
+    "01 - My/daily/19-06-2024.md",
+    "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
+    "01 - My/Як виглядає мій ідеальний день.md",
     "02 - Learning/books/You don't know JavaScript/Lexical time.md",
     "Pasted image 20240619143422.png",
     "02 - Learning/books/You don't know JavaScript/Lexical Scope.md",
@@ -232,7 +238,6 @@
     "99 - templates/YDNJS Scope & Closures.md",
     "99 - templates/Default template.md",
     "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
-    "99 - templates/Habbit-June.md",
     "06 - University/Sport programming/Lab 3 task 8.md",
     "01 - My/daily/17-06-2024.md",
     "01 - My/daily/16-06-2024.md",
@@ -248,14 +253,8 @@
     "04 - Projects/wwt/images/Logo (40 px).png",
     "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
     "04 - Projects/wwt/Test tasks/Adamovproga2003.md",
-    "04 - Projects/wwt/Test tasks/vladyslav-penkin.md",
-    "04 - Projects/wwt/Test tasks/Igor2698.md",
-    "04 - Projects/wwt/Test tasks/glebfarmon.md",
-    "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
     "04 - Projects/wwt/tmp",
-    "Untitled 1.canvas",
     "02 - Learning/books/You don't know JavaScript",
-    "Untitled.canvas",
     "01 - My/temp",
     "01 - My/Goals",
     "01 - My/My life",
