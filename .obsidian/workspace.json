@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45aa3f335fd61150",
+        "id": "06fe51e66bf6bedd",
         "type": "tabs",
         "children": [
           {
-            "id": "e29c070cae0b64b8",
+            "id": "cac6338395b5258a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/daily/21-06-2024.md",
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,35 +22,19 @@
             }
           },
           {
-            "id": "5f50ffcd01efb349",
+            "id": "648e7b04f1ec1be3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/Що мені не зручно в vim?.md",
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "68ee6e645c4f6fdc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 945.7171633308783,
-                  "y": -4.5959066624960485,
-                  "zoom": -0.0038039137372808396
-                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:university/discrete-structures",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/21-06-2024.md",
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/21-06-2024.md",
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/21-06-2024.md"
+                "file": "06 - University/Discrete structures/_ШПОРА.md"
               }
             }
           },
@@ -217,10 +201,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e29c070cae0b64b8",
+  "active": "648e7b04f1ec1be3",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "06 - University/Discrete structures/Definitions/Інтелектуальна задача.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
+    "06 - University/Discrete structures/_ШПОРА.md",
+    "06 - University/Discrete structures/Definitions/Штучний інтелект.md",
+    "06 - University/Discrete structures/Definitions/Системи загального призначення і спеціалізованні.md",
+    "06 - University/Discrete structures/Definitions/Властивість інтелектуальності.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
+    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
+    "99 - templates/Discrete Structures Definition.md",
+    "99 - templates/Discrete Structures.md",
+    "06 - University/Discrete structures/Definitions",
+    "06 - University/Discrete structures",
+    "99 - templates/Default template.md",
     "01 - My/daily/21-06-2024.md",
+    "Untitled.canvas",
     "01 - My/Що мені не зручно в vim?.md",
     "01 - My/daily/20-06-2024.md",
     "README.md",
@@ -236,30 +233,18 @@
     "02 - Learning/books/You don't know JavaScript/Lexical Scope.md",
     "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
     "99 - templates/YDNJS Scope & Closures.md",
-    "99 - templates/Default template.md",
     "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
-    "06 - University/Sport programming/Lab 3 task 8.md",
-    "01 - My/daily/17-06-2024.md",
-    "01 - My/daily/16-06-2024.md",
-    "06 - University/philosophy/Німецька класична філософія.md",
-    "02 - Learning/books/You don't know JavaScript/Важливість виклику LHS або RHS.md",
     "06 - University/Sport programming",
-    "Strict mode.md",
-    "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
-    "02 - Learning/books/You don't know JavaScript/Розуміння Scope.md",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
     "02 - Learning/books/You don't know JavaScript/assets",
     "04 - Projects/wwt/images/Pasted image 20240613084242.png",
     "04 - Projects/wwt/images/Logo (40 px).png",
-    "02 - Learning/books/You don't know JavaScript/Дві дії для оголошення змінних.md",
     "04 - Projects/wwt/tmp",
     "02 - Learning/books/You don't know JavaScript",
     "01 - My/temp",
     "01 - My/Goals",
     "01 - My/My life",
     "01 - My/daily",
-    "04 - Projects/wwt/Test tasks/Untitled",
-    "04 - Projects/wwt/Test tasks",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",

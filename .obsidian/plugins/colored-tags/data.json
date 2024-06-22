@@ -89,7 +89,9 @@
     "winwintravel/test-task": 1,
     "book/you-dont-know-js": 4,
     "book/you-dont-know-js/scope-and-closures": 1,
-    "university/sport-programming": 2
+    "university/sport-programming": 2,
+    "university/discrete-structures": 3,
+    "university/discrete-structures/definition": 1
   },
   "_version": 2
 }
