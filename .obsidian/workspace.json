@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "648e7b04f1ec1be3",
+            "id": "5c2539bd8ca2199b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "file": "01 - My/daily/22-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "file": "01 - My/daily/22-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "file": "01 - My/daily/22-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md"
+                "file": "01 - My/daily/22-06-2024.md"
               }
             }
           },
@@ -201,11 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "648e7b04f1ec1be3",
+  "active": "5c2539bd8ca2199b",
   "lastOpenFiles": [
+    "01 - My/daily/21-06-2024.md",
+    "01 - My/daily/22-06-2024.md",
+    "06 - University/Discrete structures/_ШПОРА.md",
+    "01 - My/temp/Answer for Cliff Weitzman.md",
+    "01 - My/temp/Untitled.md",
+    "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
     "06 - University/Discrete structures/Definitions/Інтелектуальна задача.md",
     "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
-    "06 - University/Discrete structures/_ШПОРА.md",
     "06 - University/Discrete structures/Definitions/Штучний інтелект.md",
     "06 - University/Discrete structures/Definitions/Системи загального призначення і спеціалізованні.md",
     "06 - University/Discrete structures/Definitions/Властивість інтелектуальності.md",
@@ -216,7 +222,6 @@
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
     "99 - templates/Default template.md",
-    "01 - My/daily/21-06-2024.md",
     "Untitled.canvas",
     "01 - My/Що мені не зручно в vim?.md",
     "01 - My/daily/20-06-2024.md",
@@ -228,12 +233,7 @@
     "01 - My/daily/19-06-2024.md",
     "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
     "01 - My/Як виглядає мій ідеальний день.md",
-    "02 - Learning/books/You don't know JavaScript/Lexical time.md",
     "Pasted image 20240619143422.png",
-    "02 - Learning/books/You don't know JavaScript/Lexical Scope.md",
-    "02 - Learning/books/You don't know JavaScript/Що таке Scope.md",
-    "99 - templates/YDNJS Scope & Closures.md",
-    "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
     "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
     "02 - Learning/books/You don't know JavaScript/assets",
