@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"322fe5ab21d5febd","type":"text","text":"```tracker\nsearchType: frontmatter\nsearchTarget: Медитація зранку\nfolder: 01 - My/daily\ndateFormat: DD-MM-YYYY\nmonth:\n\tmode: annotation\n\tstartWeekOn: 'Mon'\n\tthreshold: 0, 0\n\tdimNotInMonth: false\n\tcircleColorByValue: true\n\tannotation: L, D\n\tshowAnnotationOfAllTargets: true\n```","x":-380,"y":-120,"width":560,"height":460},
+		{"id":"0767e07442b4ec46","type":"text","text":"# 📓 Recent Journal Entries\n\n```dataview\nTABLE WITHOUT ID\n\tlink(file.name) as \"Day\",\n\tchoice(filter(file.tasks, (t) => t.habit = \"mediatation morning\").completed, \"✔️\", \"❌\") AS \"mediatation morning\",\n\tchoice(filter(file.tasks, (t) => t.habit = \"back training morning\").completed, \"✔️\", \"❌\") AS \"back training morning\",\n\tchoice(filter(file.tasks, (t) => t.habit = \"mediatation evening\").completed, \"✔️\", \"❌\") AS \"mediatation evening\",\n\tchoice(filter(file.tasks, (t) => t.habit = \"back training evening\").completed, \"✔️\", \"❌\") AS \"back training evening\"\n\tFROM \"01 - My/daily\" \n\tWHERE file.cday.day >= 21\n\tSORT file.name DESC\n```\n","x":180,"y":-380,"width":1360,"height":920}
+	],
+	"edges":[]
+}

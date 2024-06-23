@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cac6338395b5258a",
+            "id": "57a5c6e0926778b4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "file": "01 - My/daily/23-06-2024.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +22,23 @@
             }
           },
           {
-            "id": "5c2539bd8ca2199b",
+            "id": "1dd6b18136c201fc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - My/daily/22-06-2024.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Habbits.canvas",
+                "viewState": {
+                  "x": 580,
+                  "y": 80,
+                  "zoom": -0.4660214279976487
+                }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/22-06-2024.md",
+                "file": "01 - My/daily/23-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/22-06-2024.md",
+                "file": "01 - My/daily/23-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/22-06-2024.md"
+                "file": "01 - My/daily/23-06-2024.md"
               }
             }
           },
@@ -201,11 +205,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c2539bd8ca2199b",
+  "active": "57a5c6e0926778b4",
   "lastOpenFiles": [
-    "01 - My/daily/21-06-2024.md",
-    "01 - My/daily/22-06-2024.md",
+    "Habbits.canvas",
+    "01 - My/daily/23-06-2024.md",
     "06 - University/Discrete structures/_ШПОРА.md",
+    "01 - My/daily/22-06-2024.md",
+    "99 - templates/Habbit-June.md",
+    "01 - My/daily/21-06-2024.md",
     "01 - My/temp/Answer for Cliff Weitzman.md",
     "01 - My/temp/Untitled.md",
     "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
@@ -222,17 +229,13 @@
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
     "99 - templates/Default template.md",
-    "Untitled.canvas",
     "01 - My/Що мені не зручно в vim?.md",
     "01 - My/daily/20-06-2024.md",
     "README.md",
-    "99 - templates/Habbit-June.md",
     "Untitled 1.canvas",
     "01 - My/daily/18-06-2024.md",
     "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
     "01 - My/daily/19-06-2024.md",
-    "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
-    "01 - My/Як виглядає мій ідеальний день.md",
     "Pasted image 20240619143422.png",
     "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
