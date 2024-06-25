@@ -34,14 +34,6 @@
             }
           },
           {
-            "id": "cbf2cca2d39a4c11",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "11e1cb6ab2d597f0",
             "type": "leaf",
             "state": {
@@ -54,24 +46,32 @@
             }
           },
           {
-            "id": "f5f2fc1b8644fbe9",
+            "id": "7aee54b94dc8f16f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "file": "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7aee54b94dc8f16f",
+            "id": "ff204a659c87db6c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "532e4089c4504f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
+                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
+                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
+                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/Властивості експертних систем.md"
+                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md"
               }
             }
           },
@@ -245,39 +245,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7aee54b94dc8f16f",
+  "active": "532e4089c4504f78",
   "lastOpenFiles": [
-    "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
-    "06 - University/Discrete structures/Властивості експертних систем.md",
-    "06 - University/Discrete structures/Definitions/Експертні системи.md",
+    "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
+    "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
+    "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
+    "06 - University/Discrete structures/Класифікація експертних систем.md",
     "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
-    "06 - University/Discrete structures/_ШПОРА.md",
-    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
-    "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
+    "06 - University/Discrete structures/Властивості експертних систем.md",
     "06 - University/Discrete structures/Для вирішення інтелектуальних задач необхідно.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
+    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
+    "06 - University/Discrete structures/_ШПОРА.md",
     "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
+    "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
+    "Habbits.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240619143422.png",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
+    "06 - University/Discrete structures/Definitions/Експертні системи.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
     "06 - University/Discrete structures/Definitions/Системи загального призначення і спеціалізованні.md",
     "06 - University/Discrete structures/Definitions/Проблемна область.md",
-    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
     "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
     "06 - University/Discrete structures/Definitions/Задачі, що вирішуються інтелектуальними системами у проблемній області, класифікують.md",
     "06 - University/Discrete structures/Definitions/Класифікація проблемних середовищ.md",
-    "Habbits.canvas",
     "01 - My/daily/23-06-2024.md",
     "01 - My/daily/22-06-2024.md",
     "99 - templates/Habbit-June.md",
     "01 - My/daily/21-06-2024.md",
-    "01 - My/temp/Answer for Cliff Weitzman.md",
-    "01 - My/temp/Untitled.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальна задача.md",
-    "06 - University/Discrete structures/Definitions/Штучний інтелект.md",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
-    "Untitled 1.canvas",
-    "Pasted image 20240619143422.png",
     "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
     "02 - Learning/books/You don't know JavaScript/assets",
