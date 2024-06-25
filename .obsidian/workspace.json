@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06fe51e66bf6bedd",
+        "id": "78c4fa187291188b",
         "type": "tabs",
         "children": [
           {
-            "id": "57a5c6e0926778b4",
+            "id": "ae0c2a9d63e77875",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/daily/23-06-2024.md",
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,23 +22,63 @@
             }
           },
           {
-            "id": "1dd6b18136c201fc",
+            "id": "7c9d4a608353b0e5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Habbits.canvas",
-                "viewState": {
-                  "x": 580,
-                  "y": 80,
-                  "zoom": -0.4660214279976487
-                }
-              },
-              "pinned": true
+                "file": "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbf2cca2d39a4c11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "11e1cb6ab2d597f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5f2fc1b8644fbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - University/Discrete structures/_ШПОРА.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aee54b94dc8f16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 553.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -104,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/23-06-2024.md",
+                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/23-06-2024.md",
+                "file": "06 - University/Discrete structures/Властивості експертних систем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/23-06-2024.md"
+                "file": "06 - University/Discrete structures/Властивості експертних систем.md"
               }
             }
           },
@@ -205,37 +245,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57a5c6e0926778b4",
+  "active": "7aee54b94dc8f16f",
   "lastOpenFiles": [
+    "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
+    "06 - University/Discrete structures/Властивості експертних систем.md",
+    "06 - University/Discrete structures/Definitions/Експертні системи.md",
+    "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
+    "06 - University/Discrete structures/_ШПОРА.md",
+    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
+    "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
+    "06 - University/Discrete structures/Для вирішення інтелектуальних задач необхідно.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
+    "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Системи загального призначення і спеціалізованні.md",
+    "06 - University/Discrete structures/Definitions/Проблемна область.md",
+    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
+    "06 - University/Discrete structures/Definitions/Задачі, що вирішуються інтелектуальними системами у проблемній області, класифікують.md",
+    "06 - University/Discrete structures/Definitions/Класифікація проблемних середовищ.md",
     "Habbits.canvas",
     "01 - My/daily/23-06-2024.md",
-    "06 - University/Discrete structures/_ШПОРА.md",
     "01 - My/daily/22-06-2024.md",
     "99 - templates/Habbit-June.md",
     "01 - My/daily/21-06-2024.md",
     "01 - My/temp/Answer for Cliff Weitzman.md",
     "01 - My/temp/Untitled.md",
-    "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
     "06 - University/Discrete structures/Definitions/Інтелектуальна задача.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
     "06 - University/Discrete structures/Definitions/Штучний інтелект.md",
-    "06 - University/Discrete structures/Definitions/Системи загального призначення і спеціалізованні.md",
-    "06 - University/Discrete structures/Definitions/Властивість інтелектуальності.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
-    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
-    "99 - templates/Discrete Structures Definition.md",
-    "99 - templates/Discrete Structures.md",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
-    "99 - templates/Default template.md",
-    "01 - My/Що мені не зручно в vim?.md",
-    "01 - My/daily/20-06-2024.md",
-    "README.md",
     "Untitled 1.canvas",
-    "01 - My/daily/18-06-2024.md",
-    "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
-    "01 - My/daily/19-06-2024.md",
     "Pasted image 20240619143422.png",
     "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
