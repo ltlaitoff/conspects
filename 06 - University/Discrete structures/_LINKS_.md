@@ -15,6 +15,7 @@ Tags:
 лекція 6: [https://youtu.be/TsZrLNZDPHo](https://youtu.be/TsZrLNZDPHo)  
   
 лекція 5 [https://youtu.be/Gxqkutxt7wM](https://youtu.be/Gxqkutxt7wM)  
+-
   
 лекція 4 [https://youtu.be/K61D09ER_zY](https://youtu.be/K61D09ER_zY)  
   
