@@ -22,59 +22,27 @@
             }
           },
           {
+            "id": "bba13894aff682ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "532e4089c4504f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
+                "file": "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7c9d4a608353b0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11e1cb6ab2d597f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aee54b94dc8f16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff204a659c87db6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -144,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
+                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
+                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/Структура та функціонування експертної системи.md"
+                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md"
               }
             }
           },
@@ -245,25 +213,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "532e4089c4504f78",
+  "active": "bba13894aff682ab",
   "lastOpenFiles": [
     "06 - University/Discrete structures/_ШПОРА.md",
+    "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
+    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
+    "06 - University/Discrete structures/Definitions/Знання як спосіб подання інформації.md",
+    "06 - University/Discrete structures/Класифікація експертних систем.md",
     "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
+    "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
+    "06 - University/Discrete structures/Режими роботи експертних систем.md",
+    "06 - University/Discrete structures/_LINKS_.md",
+    "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
     "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
     "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
-    "06 - University/Discrete structures/Класифікація експертних систем.md",
-    "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
     "06 - University/Discrete structures/Властивості експертних систем.md",
     "06 - University/Discrete structures/Для вирішення інтелектуальних задач необхідно.md",
     "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
-    "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
     "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
     "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
     "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
-    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
     "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
     "06 - University/Discrete structures/Definitions/Експертні системи.md",
     "06 - University/Discrete structures/Definitions/Інтелектуальною системою.md",
@@ -272,10 +244,6 @@
     "06 - University/Discrete structures/Definitions/Спеціалізовані інтелектуальні системи.md",
     "06 - University/Discrete structures/Definitions/Задачі, що вирішуються інтелектуальними системами у проблемній області, класифікують.md",
     "06 - University/Discrete structures/Definitions/Класифікація проблемних середовищ.md",
-    "01 - My/daily/23-06-2024.md",
-    "01 - My/daily/22-06-2024.md",
-    "99 - templates/Habbit-June.md",
-    "01 - My/daily/21-06-2024.md",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
     "06 - University/Sport programming",
