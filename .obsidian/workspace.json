@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/_LINKS_.md",
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/_LINKS_.md",
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/_LINKS_.md",
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/_LINKS_.md"
+                "file": "06 - University/Discrete structures/Контрольні запитання.md"
               }
             }
           },
@@ -251,6 +251,8 @@
   },
   "active": "270a2f9194e65d13",
   "lastOpenFiles": [
+    "06 - University/Discrete structures/_LINKS_.md",
+    "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/Definitions/Інженерія знань.md",
     "06 - University/Discrete structures/_ШПОРА.md",
     "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
@@ -265,7 +267,6 @@
     "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
     "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
     "06 - University/Discrete structures/Режими роботи експертних систем.md",
-    "06 - University/Discrete structures/_LINKS_.md",
     "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
     "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
     "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
@@ -279,7 +280,6 @@
     "Pasted image 20240619143422.png",
     "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
     "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
-    "06 - University/Discrete structures/Definitions/Експертні системи.md",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
     "06 - University/Sport programming",
