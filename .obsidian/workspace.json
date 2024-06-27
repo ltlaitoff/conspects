@@ -75,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md"
+                "file": "04 - Projects/wwt/Offer configuration packages.md"
               }
             }
           },
@@ -249,13 +249,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "270a2f9194e65d13",
+  "active": "4344c81864fcea4d",
   "lastOpenFiles": [
-    "06 - University/Discrete structures/_LINKS_.md",
+    "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
+    "04 - Projects/wwt/Offer configuration packages.md",
     "06 - University/Discrete structures/Контрольні запитання.md",
+    "06 - University/Discrete structures/_LINKS_.md",
     "06 - University/Discrete structures/Definitions/Інженерія знань.md",
     "06 - University/Discrete structures/_ШПОРА.md",
-    "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
     "06 - University/Discrete structures/Definitions/Види знань.md",
     "06 - University/Discrete structures/Definitions/Знання в залежності від часу існування.md",
     "06 - University/Discrete structures/Definitions/Різновиди знань.md",
@@ -279,7 +280,6 @@
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
     "06 - University/Discrete structures/Definitions/Інтелектуальні системи, засновані на знаннях.md",
-    "06 - University/Discrete structures/Definitions/Неформалізовані задачі.md",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
     "06 - University/Sport programming",
