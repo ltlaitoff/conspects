@@ -4,85 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78c4fa187291188b",
+        "id": "9d7d553ed1650d66",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0c2a9d63e77875",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/_ШПОРА.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bba13894aff682ab",
+            "id": "422d1f227161a2e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/Класифікація експертних систем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532e4089c4504f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Definitions/Різновиди знань.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30fa9bf10a0b5f6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Definitions/Види знань.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "270a2f9194e65d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4344c81864fcea4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 200
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -148,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
+                "file": "04 - Projects/wwt/Offer configuration packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md"
+                "file": "04 - Projects/wwt/Offer configuration packages.md"
               }
             }
           },
@@ -249,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4344c81864fcea4d",
+  "active": "422d1f227161a2e0",
   "lastOpenFiles": [
+    "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
     "06 - University/philosophy/Контрольна робота Щедровський Іван КНТ-113сп.md",
     "04 - Projects/wwt/Offer configuration packages.md",
     "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
@@ -276,7 +214,6 @@
     "06 - University/Discrete structures/Для вирішення інтелектуальних задач необхідно.md",
     "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
     "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
-    "06 - University/Discrete structures/Definitions/Інтелектуальні системи загального призначення.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
