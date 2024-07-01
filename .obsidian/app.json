@@ -11,5 +11,5 @@
   },
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "vimMode": false
+  "vimMode": true
 }

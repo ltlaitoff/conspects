@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "62ac73f85a4d9916",
+        "id": "a0a5d5eda8a443c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0dcceb04797920",
+            "id": "fbb513adf9cd86b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2e3bb4cf20e53f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/daily/01-07-2024.md",
+                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:university/discrete-structures",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/01-07-2024.md",
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/01-07-2024.md",
+                "file": "06 - University/Discrete structures/Контрольні запитання.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/01-07-2024.md"
+                "file": "06 - University/Discrete structures/Контрольні запитання.md"
               }
             }
           },
@@ -186,17 +200,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f0dcceb04797920",
+  "active": "fbb513adf9cd86b0",
   "lastOpenFiles": [
-    "01 - My/daily/30-06-2024.md",
+    "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
+    "06 - University/Discrete structures/Контрольні запитання.md",
+    "06 - University/Discrete structures/Класифікація експертних систем.md",
     "01 - My/daily/01-07-2024.md",
+    "06 - University/Discrete structures/Untitled.md",
+    "01 - My/daily/30-06-2024.md",
     "01 - My/my/Films, mults and tv shows for watch.md",
     "01 - My/my",
     "04 - Projects/wwt/Offer configuration packages.md",
     "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
     "06 - University/philosophy/Контрольна робота Щедровський Іван КНТ-113сп.md",
     "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
-    "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/_LINKS_.md",
     "06 - University/Discrete structures/Definitions/Інженерія знань.md",
     "06 - University/Discrete structures/_ШПОРА.md",
@@ -204,17 +221,14 @@
     "06 - University/Discrete structures/Definitions/Знання в залежності від часу існування.md",
     "06 - University/Discrete structures/Definitions/Різновиди знань.md",
     "06 - University/Discrete structures/Definitions/Типи знань.md",
-    "06 - University/Discrete structures/Класифікація експертних систем.md",
     "06 - University/Discrete structures/Definitions/Знання як спосіб подання інформації.md",
     "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
-    "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
     "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
     "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
     "06 - University/Discrete structures/Режими роботи експертних систем.md",
     "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
     "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
     "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
-    "06 - University/Discrete structures/Властивості експертних систем.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
