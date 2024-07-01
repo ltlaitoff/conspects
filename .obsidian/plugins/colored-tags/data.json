@@ -91,7 +91,8 @@
     "book/you-dont-know-js/scope-and-closures": 1,
     "university/sport-programming": 2,
     "university/discrete-structures": 3,
-    "university/discrete-structures/definition": 1
+    "university/discrete-structures/definition": 1,
+    "my/rest": 2
   },
   "_version": 2
 }

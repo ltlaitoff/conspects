@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7d553ed1650d66",
+        "id": "62ac73f85a4d9916",
         "type": "tabs",
         "children": [
           {
-            "id": "422d1f227161a2e0",
+            "id": "3f0dcceb04797920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projects/wwt/Offer configuration packages.md",
+                "file": "01 - My/daily/01-07-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Projects/wwt/Offer configuration packages.md",
+                "file": "01 - My/daily/01-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projects/wwt/Offer configuration packages.md",
+                "file": "01 - My/daily/01-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projects/wwt/Offer configuration packages.md"
+                "file": "01 - My/daily/01-07-2024.md"
               }
             }
           },
@@ -186,11 +186,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "422d1f227161a2e0",
+  "active": "3f0dcceb04797920",
   "lastOpenFiles": [
+    "01 - My/daily/30-06-2024.md",
+    "01 - My/daily/01-07-2024.md",
+    "01 - My/my/Films, mults and tv shows for watch.md",
+    "01 - My/my",
+    "04 - Projects/wwt/Offer configuration packages.md",
     "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
     "06 - University/philosophy/Контрольна робота Щедровський Іван КНТ-113сп.md",
-    "04 - Projects/wwt/Offer configuration packages.md",
     "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
     "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/_LINKS_.md",
@@ -211,9 +215,6 @@
     "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
     "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
     "06 - University/Discrete structures/Властивості експертних систем.md",
-    "06 - University/Discrete structures/Для вирішення інтелектуальних задач необхідно.md",
-    "06 - University/Discrete structures/Основні напрями досліджень в галузі штучного інтелекту.md",
-    "06 - University/Discrete structures/Ієрархією рівнів систем, заснованих на знаннях.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
@@ -229,7 +230,6 @@
     "01 - My/temp",
     "01 - My/Goals",
     "01 - My/My life",
-    "01 - My/daily",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
