@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a5d5eda8a443c5",
+        "id": "d84af90bab81dd54",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb513adf9cd86b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2e3bb4cf20e53f5d",
+            "id": "a11a48db79cfcc03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
+                "file": "04 - Projects/wwt/Validation.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
+                "file": "04 - Projects/wwt/Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md",
+                "file": "04 - Projects/wwt/Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - University/Discrete structures/Контрольні запитання.md"
+                "file": "04 - Projects/wwt/Validation.md"
               }
             }
           },
@@ -200,8 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbb513adf9cd86b0",
+  "active": "a11a48db79cfcc03",
   "lastOpenFiles": [
+    "04 - Projects/wwt/Comparison elements.md",
+    "04 - Projects/wwt/Validation.md",
     "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
     "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/Класифікація експертних систем.md",
@@ -227,8 +215,6 @@
     "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
     "06 - University/Discrete structures/Режими роботи експертних систем.md",
     "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
-    "06 - University/Discrete structures/Етапи методології розробки експертних систем.md",
-    "06 - University/Discrete structures/Життєвий цикл та методологія розробки експертних систем.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
