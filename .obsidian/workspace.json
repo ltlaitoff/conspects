@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projects/wwt/Validation.md",
+                "file": "01 - My/daily/03-07-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Projects/wwt/Validation.md",
+                "file": "01 - My/daily/03-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projects/wwt/Validation.md",
+                "file": "01 - My/daily/03-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projects/wwt/Validation.md"
+                "file": "01 - My/daily/03-07-2024.md"
               }
             }
           },
@@ -188,8 +189,10 @@
   },
   "active": "a11a48db79cfcc03",
   "lastOpenFiles": [
-    "04 - Projects/wwt/Comparison elements.md",
+    "01 - My/My life/What I want to react.md",
+    "01 - My/daily/03-07-2024.md",
     "04 - Projects/wwt/Validation.md",
+    "04 - Projects/wwt/Comparison elements.md",
     "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
     "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/Класифікація експертних систем.md",
@@ -213,8 +216,6 @@
     "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
     "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
     "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
-    "06 - University/Discrete structures/Режими роботи експертних систем.md",
-    "06 - University/Discrete structures/Definitions/Невід’ємними характеристиками систем, заснованих на знаннях.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
