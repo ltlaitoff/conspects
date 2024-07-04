@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Other/Особистості/Тім Урбан.md",
+                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Other/Особистості/Тім Урбан.md",
+                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Other/Особистості/Тім Урбан.md",
+                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Other/Особистості/Тім Урбан.md"
+                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md"
               }
             }
           },
@@ -203,8 +203,11 @@
   },
   "active": "f4a74b6432761cd7",
   "lastOpenFiles": [
-    "05 - Other/Особистості/Максим Дорофєєв.md",
+    "02 - Learning/books/How to Take Smart Notes.pdf",
+    "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
     "05 - Other/Особистості/Тім Урбан.md",
+    "02 - Learning/books/Джедайскі техніки/Що потрібно робити",
+    "05 - Other/Особистості/Максим Дорофєєв.md",
     "99 - templates/Default template.md",
     "99 - templates/Особистості.md",
     "02 - Learning/books/Джедайскі техніки/Ми імпульсивні та нелогічні.md",
@@ -230,8 +233,6 @@
     "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
     "06 - University/Discrete structures/Контрольні запитання.md",
     "06 - University/Discrete structures/Класифікація експертних систем.md",
-    "01 - My/daily/01-07-2024.md",
-    "06 - University/Discrete structures/Untitled.md",
     "01 - My/my",
     "Habbits.canvas",
     "Untitled 1.canvas",
@@ -244,7 +245,6 @@
     "04 - Projects/wwt/images/Pasted image 20240613084242.png",
     "04 - Projects/wwt/images/Logo (40 px).png",
     "04 - Projects/wwt/tmp",
-    "02 - Learning/books/You don't know JavaScript",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
