@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d84af90bab81dd54",
+        "id": "d2b7526a2d226465",
         "type": "tabs",
         "children": [
           {
-            "id": "a11a48db79cfcc03",
+            "id": "51c189a1fb4f4a63",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 - My/daily/03-07-2024.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f4a74b6432761cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Other/Особистості/Тім Урбан.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/daily/03-07-2024.md",
+                "file": "05 - Other/Особистості/Тім Урбан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/daily/03-07-2024.md",
+                "file": "05 - Other/Особистості/Тім Урбан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/daily/03-07-2024.md"
+                "file": "05 - Other/Особистості/Тім Урбан.md"
               }
             }
           },
@@ -187,10 +201,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a11a48db79cfcc03",
+  "active": "f4a74b6432761cd7",
   "lastOpenFiles": [
-    "01 - My/My life/What I want to react.md",
+    "05 - Other/Особистості/Максим Дорофєєв.md",
+    "05 - Other/Особистості/Тім Урбан.md",
+    "99 - templates/Default template.md",
+    "99 - templates/Особистості.md",
+    "02 - Learning/books/Джедайскі техніки/Ми імпульсивні та нелогічні.md",
+    "02 - Learning/books/Power.pdf",
+    "05 - Other/planning/Plan 20.05 - 26.05.md",
+    "02 - Learning/books/Джедайскі техніки/Наш мозог обирає зрозуміле.md",
+    "99 - templates/Джедайскі техніки цитати.md",
+    "05 - Other/Особистості",
+    "02 - Learning/books/Джедайскі техніки/Не потрібно себе обвинувачувати в незібранності та роздовбуванні.md",
+    "02 - Learning/books/Джедайскі техніки/Цитати/Ваша основа ціль.md",
+    "02 - Learning/books/Джедайскі техніки/Наш мозок обирає зрозуміло.md",
+    "99 - templates/Джедайскі техніки.md",
+    "02 - Learning/books/Джедайскі техніки/Цитати",
     "01 - My/daily/03-07-2024.md",
+    "02 - Learning/books/Джедайскі техніки/123.md",
+    "02 - Learning/books/Джедайскі техніки/Мавпо-зрозумілі задачі.md",
+    "99 - templates/Discrete Structures.md",
+    "99 - templates/Untitled.md",
+    "02 - Learning/books/Джедайскі техніки/Джедайскі техніки.md",
+    "01 - My/My life/What I want to react.md",
     "04 - Projects/wwt/Validation.md",
     "04 - Projects/wwt/Comparison elements.md",
     "06 - University/Discrete structures/Переваги і недоліки експертних систем.md",
@@ -198,24 +232,7 @@
     "06 - University/Discrete structures/Класифікація експертних систем.md",
     "01 - My/daily/01-07-2024.md",
     "06 - University/Discrete structures/Untitled.md",
-    "01 - My/daily/30-06-2024.md",
-    "01 - My/my/Films, mults and tv shows for watch.md",
     "01 - My/my",
-    "04 - Projects/wwt/Offer configuration packages.md",
-    "02 - Learning/courses/QA Distributed Lab Academy/З чого складається тестування веб додатків?.md",
-    "06 - University/philosophy/Контрольна робота Щедровський Іван КНТ-113сп.md",
-    "06 - University/Discrete structures/Definitions/Види методів витягу знань виділяють такі.md",
-    "06 - University/Discrete structures/_LINKS_.md",
-    "06 - University/Discrete structures/Definitions/Інженерія знань.md",
-    "06 - University/Discrete structures/_ШПОРА.md",
-    "06 - University/Discrete structures/Definitions/Види знань.md",
-    "06 - University/Discrete structures/Definitions/Знання в залежності від часу існування.md",
-    "06 - University/Discrete structures/Definitions/Різновиди знань.md",
-    "06 - University/Discrete structures/Definitions/Типи знань.md",
-    "06 - University/Discrete structures/Definitions/Знання як спосіб подання інформації.md",
-    "06 - University/Discrete structures/Definitions/Система, заснована на знаннях.md",
-    "06 - University/Discrete structures/Структура та функціонування експертної системи.md",
-    "06 - University/Discrete structures/Системи, засновані на знаннях є інтелектуальними системами.md",
     "Habbits.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240619143422.png",
@@ -228,9 +245,6 @@
     "04 - Projects/wwt/images/Logo (40 px).png",
     "04 - Projects/wwt/tmp",
     "02 - Learning/books/You don't know JavaScript",
-    "01 - My/temp",
-    "01 - My/Goals",
-    "01 - My/My life",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
