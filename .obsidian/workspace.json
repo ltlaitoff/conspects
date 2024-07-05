@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
+                "file": "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "right": {
     "id": "2f506f9fee39b619",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
+                "file": "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
+                "file": "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md"
+                "file": "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md"
               }
             }
           },
@@ -203,8 +204,10 @@
   },
   "active": "f4a74b6432761cd7",
   "lastOpenFiles": [
-    "02 - Learning/books/How to Take Smart Notes.pdf",
     "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
+    "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
+    "01 - My/Розвантаженя пам'яті",
+    "02 - Learning/books/How to Take Smart Notes.pdf",
     "05 - Other/Особистості/Тім Урбан.md",
     "02 - Learning/books/Джедайскі техніки/Що потрібно робити",
     "05 - Other/Особистості/Максим Дорофєєв.md",
@@ -241,10 +244,8 @@
     "06 - University/Discrete structures",
     "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
-    "02 - Learning/books/You don't know JavaScript/assets",
     "04 - Projects/wwt/images/Pasted image 20240613084242.png",
     "04 - Projects/wwt/images/Logo (40 px).png",
-    "04 - Projects/wwt/tmp",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
     "06 - University/philosophy/images/Pasted image 20240518211253.png",
