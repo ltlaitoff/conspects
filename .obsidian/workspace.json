@@ -19,8 +19,12 @@
             "id": "99d9622c91cd00c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - My/my/Films, mults and tv shows for watch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - My/my/Films, mults and tv shows for watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - My/my/Films, mults and tv shows for watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - My/my/Films, mults and tv shows for watch.md"
+              }
             }
           },
           {
@@ -189,6 +197,16 @@
   },
   "active": "99d9622c91cd00c4",
   "lastOpenFiles": [
+    "01 - My/my/images/megogo.png",
+    "01 - My/my/images/sweet-tv.png",
+    "01 - My/my/Films, mults and tv shows for watch.md",
+    "01 - My/my/images/netflix.png",
+    "01 - My/my/images",
+    "Pasted image 20240715095311.png",
+    "Pasted image 20240619143422.png",
+    "Pasted image 20240709225630.png",
+    "01 - My/my/Books.md",
+    "01 - My/My life/What I want to read.md",
     "02 - Learning/books/You don't know JavaScript/Lexical time.md",
     "02 - Learning/books/You don't know JavaScript/Lexical Scope.md",
     "02 - Learning/books/You don't know JavaScript/Вкладений Scope.md",
@@ -199,7 +217,6 @@
     "01 - My/My life/Мої хотілки.md",
     "04 - Projects/wwt/Test tasks/BodiaPutiak.md",
     "().md",
-    "Pasted image 20240709225630.png",
     "04 - Projects/wwt/Test tasks/glebfarmon.md",
     "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
     "04 - Projects/wwt/Test tasks/horobetsjerv-test-task.md",
@@ -216,27 +233,17 @@
     "02 - Learning/books/Power.pdf",
     "05 - Other/planning/Plan 20.05 - 26.05.md",
     "02 - Learning/books/Джедайскі техніки/Наш мозог обирає зрозуміле.md",
-    "99 - templates/Джедайскі техніки цитати.md",
     "05 - Other/Особистості",
-    "02 - Learning/books/Джедайскі техніки/Не потрібно себе обвинувачувати в незібранності та роздовбуванні.md",
-    "02 - Learning/books/Джедайскі техніки/Цитати/Ваша основа ціль.md",
-    "02 - Learning/books/Джедайскі техніки/Наш мозок обирає зрозуміло.md",
     "02 - Learning/books/Джедайскі техніки/Цитати",
     "01 - My/my",
     "Habbits.canvas",
     "Untitled 1.canvas",
-    "Pasted image 20240619143422.png",
     "06 - University/Discrete structures/Definitions",
     "06 - University/Discrete structures",
-    "06 - University/Sport programming",
     "02 - Learning/books/You don't know JavaScript/assets/Pasted image 20240616162202.png",
     "04 - Projects/wwt/images/Pasted image 20240613084242.png",
     "04 - Projects/wwt/images/Logo (40 px).png",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183244.png",
-    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/images/Pasted image 20240520183903.png",
-    "06 - University/philosophy/images/Pasted image 20240518211253.png",
-    "Pasted image 20240518202841.png",
-    "Pasted image 20240518202849.png",
     "tmp/Untitled 1.canvas"
   ]
 }
