@@ -11,24 +11,15 @@
             "id": "6392cae3b067619a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "99d9622c91cd00c4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projects/wwt/Reservation.md",
+                "file": "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Projects/wwt/Reservation.md",
+                "file": "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projects/wwt/Reservation.md",
+                "file": "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projects/wwt/Reservation.md"
+                "file": "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md"
               }
             }
           },
@@ -195,10 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99d9622c91cd00c4",
+  "active": "6392cae3b067619a",
   "lastOpenFiles": [
-    "01 - My/my/Films, mults and tv shows for watch.md",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Введення до тестування.md",
+    "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md",
     "04 - Projects/wwt/Reservation.md",
+    "01 - My/my/Films, mults and tv shows for watch.md",
     "01 - My/my/images/megogo.png",
     "01 - My/my/images/sweet-tv.png",
     "01 - My/my/images/netflix.png",
@@ -232,8 +225,6 @@
     "99 - templates/Особистості.md",
     "02 - Learning/books/Джедайскі техніки/Ми імпульсивні та нелогічні.md",
     "02 - Learning/books/Power.pdf",
-    "05 - Other/planning/Plan 20.05 - 26.05.md",
-    "02 - Learning/books/Джедайскі техніки/Наш мозог обирає зрозуміле.md",
     "05 - Other/Особистості",
     "02 - Learning/books/Джедайскі техніки/Цитати",
     "01 - My/my",
