@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - My/my/planning/Чому я роблю так мало.md",
+                "file": "01 - My/_My20Year.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - My/my/planning/Чому я роблю так мало.md",
+                "file": "01 - My/_My20Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - My/my/planning/Чому я роблю так мало.md",
+                "file": "01 - My/_My20Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - My/my/planning/Чому я роблю так мало.md"
+                "file": "01 - My/_My20Year.md"
               }
             }
           },
@@ -188,8 +189,13 @@
   },
   "active": "6392cae3b067619a",
   "lastOpenFiles": [
-    "04 - Projects/wwt/Test tasks/vxdosick.md",
+    "03 - Programming/git/Введение/Система контроля версий.md",
+    "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
+    "01 - My/quotes/Untitled.md",
+    "01 - My/_My20Year.md",
+    "01 - My/My life/09.06.2024.md",
     "01 - My/my/planning/Чому я роблю так мало.md",
+    "04 - Projects/wwt/Test tasks/vxdosick.md",
     "01 - My/my/planning",
     "01 - My/My life/Untitled.md",
     "02 - Learning/courses/Мастер клас Unit-тестирование в JavaScript/Піраміда тестування.md",
@@ -214,18 +220,13 @@
     "02 - Learning/books/You don't know JavaScript/Як працює традиційний компілятор.md",
     "02 - Learning/books/You don't know JavaScript/Javascript - компільована мова програмування.md",
     "02 - Learning/books/You don't know JavaScript/LHS та RHS.md",
-    "01 - My/My life/09.06.2024.md",
     "01 - My/My life/Мої хотілки.md",
     "04 - Projects/wwt/Test tasks/BodiaPutiak.md",
     "04 - Projects/wwt/Test tasks/glebfarmon.md",
     "04 - Projects/wwt/Test tasks/denisIevlev-test-task.md",
-    "01 - My/Розвантаженя пам'яті/Розвантаження пам'яті 04.07.24.md",
-    "02 - Learning/books/Джедайскі техніки/Що потрібно робити/Що потрібно робити.md",
     "01 - My/Розвантаженя пам'яті",
     "02 - Learning/books/How to Take Smart Notes.pdf",
-    "05 - Other/Особистості/Тім Урбан.md",
     "02 - Learning/books/Джедайскі техніки/Що потрібно робити",
-    "05 - Other/Особистості/Максим Дорофєєв.md",
     "02 - Learning/books/Power.pdf",
     "05 - Other/Особистості",
     "02 - Learning/books/Джедайскі техніки/Цитати",
